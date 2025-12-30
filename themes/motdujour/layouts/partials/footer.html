@@ -1,0 +1,8 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <p class="copyright">
+            Copyright © {{ now.Year }} {{ .Site.Title }}.
+            {{ with .Site.Params.footerText }}{{ . | safeHTML }}{{ end }}
+        </p>
+    </div>
+</footer>

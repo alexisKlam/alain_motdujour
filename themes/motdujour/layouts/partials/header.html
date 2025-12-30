@@ -1,0 +1,21 @@
+<header class="site-header">
+    <div class="header-container">
+        <div class="site-branding">
+            <h1 class="site-title">
+                <a href="{{ " /" | relURL }}">{{ .Site.Title }}</a>
+            </h1>
+            {{ with .Site.Params.tagline }}
+            <p class="site-tagline">{{ . }}</p>
+            {{ end }}
+        </div>
+
+        <nav class="main-navigation">
+            <ul class="menu">
+                <li><a href="{{ " /" | relURL }}">Accueil</a></li>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</header>

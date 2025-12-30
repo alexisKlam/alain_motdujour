@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+
+<div class="home">
+    {{ range $paginator.Pages }}
+    <article class="post-summary">
+        <h2 class="post-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        <div class="post-meta">
+            <time datetime="{{ .Date.Format " 2006-01-02" }}">
+                {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            </time>
+            {{ with .Params.categories }}
+            <span class="categories">
+                {{ range . }}
+                {{ . }}
+                {{ end }}
+            </span>
+            {{ end }}
+            {{ with .Params.tags }}
+            <span class="tags">
+                {{ range . }}#{{ . }} {{ end }}
+            </span>
+            {{ end }}
+        </div>
+        <div class="post-content">
+            {{ .Content }}
+        </div>
+    </article>
+    {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

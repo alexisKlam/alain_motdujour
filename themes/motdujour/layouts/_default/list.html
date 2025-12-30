@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="posts-list">
+    {{ range .Pages }}
+    <article class="post-summary">
+        <h2 class="post-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        <div class="post-meta">
+            <time datetime="{{ .Date.Format " 2006-01-02" }}">
+                {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            </time>
+            {{ with .Params.categories }}
+            <span class="categories">
+                {{ range . }}
+                <a href="{{ " categories" | relURL }}/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </span>
+            {{ end }}
+        </div>
+        <div class="post-content">
+            {{ .Summary }}
+        </div>
+        <a href="{{ .RelPermalink }}" class="read-more">Lire la suite →</a>
+    </article>
+    {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

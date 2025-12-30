@@ -1,0 +1,72 @@
+baseURL = 'https://lemotdujour.fr/'
+languageCode = 'fr'
+defaultContentLanguage = 'fr'
+title = "Le mot du jour d'Alain"
+
+# Theme
+theme = 'ananke'
+
+# Pagination
+[pagination]
+  pagerSize = 10
+
+# Taxonomies
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Image processing
+[imaging]
+  # High quality image resizing
+  quality = 85
+  resampleFilter = "Lanczos"
+  
+  # Anchor for cropping (smart, center, topleft, etc.)
+  anchor = "smart"
+  
+  # Background color for transparent images
+  bgColor = "#ffffff"
+  
+  # EXIF settings
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = ""
+    excludeFields = ""
+
+# Parameters
+[params]
+  tagline = "« Le contraire du savoir ce n'est pas l'ignorance mais les certitudes ! »"
+  description = "Le mot du jour d'Alain - Citations, réflexions et pensées quotidiennes"
+  footerText = 'Propulsé par <a href="https://gohugo.io">Hugo</a>.'
+  custom_css = ["custom.css"]
+
+# Menu
+[[menu.main]]
+  name = "Liste des mots"
+  url = "/post/"
+  weight = 1
+
+[[menu.main]]
+  name = "L'auteur"
+  url = "/page/quelques-mots-sur-lauteur"
+  weight = 2
+
+[[menu.main]]
+  name = "Séries de mots"
+  url = "/page/series-de-mots/"
+  weight = 3
+
+[[menu.main]]
+  name = "Les étiquettes"
+  url = "/tags/"
+  weight = 4
+  
+[outputs]
+  home = ["HTML"]

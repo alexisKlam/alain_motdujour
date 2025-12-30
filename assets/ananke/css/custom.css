@@ -1,0 +1,54 @@
+/* Custom CSS for WordPress legacy content classes */
+
+.mdjTexte {
+    color: navy;
+    font-family: Arial;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.mdjDate {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: #555;
+    display: none;
+}
+
+.mdjAuteur {
+    color: maroon;
+    font-family: Arial;
+    font-size: 100%;
+    margin-bottom: 15px;
+}
+
+.mdjComplements {
+    margin-top: 15px;
+    color: #666;
+}
+
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 30px
+}
+
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 30px;
+}
+
+.wp-caption {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    max-width: 100%;
+}
+
+.wp-caption-text {
+    text-align: center;
+}
+
+.wp-caption .wp-caption-text {
+    margin: 4px 0;
+}

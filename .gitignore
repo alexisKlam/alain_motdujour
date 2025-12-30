@@ -1,0 +1,34 @@
+# WordPress export files
+wp-hugo.zip
+wp-hugo/**
+# WordPress backup files
+*.sql
+*.sql.gz
+
+# Static site build output
+public/
+dist/
+.hugo_build.lock
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+#remove big static media files
+static/wp-content/uploads/**/*.mp4
+static/wp-content/uploads/**/*.aviwp-hugo*.zip

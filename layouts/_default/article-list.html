@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="pa3 pa4-ns w-100 w-70-ns center"> {{ .Content }}</div>
+
+{{/* Get the list of article dates from front matter */}}
+{{ $articleDates := .Params.articles }}
+
+{{ if $articleDates }}
+<div class="pa3 pa4-ns w-100 w-70-ns center">
+    <section class="w-100 mw8">
+        {{ range $articleDates }}
+        {{/* Find the post by date */}}
+        {{ $dateStr := . }}
+        {{ range where $.Site.RegularPages "Section" "post" }}
+        {{ $postDate := .Date.Format "2006-01-02" }}
+        {{ if eq $postDate $dateStr }}
+        <article class="w-100 mb4 pb4 bb b--black-10">
+            <div class="">
+                {{ .Render "summary-with-image" }}
+            </div>
+
+        </article>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </section>
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+{{/* Display only the latest post by date */}}
+{{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
+{{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
+
+{{ with (collections.First 1 (sort $section "Date" "desc")) }}
+{{ $page := index . 0 }}
+{{ $needs_aside := or $page.Params.toc false }}
+
+<article class="flex-l {{ if $needs_aside }}mw8{{ else }}mw7{{ end }} center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+        {{- partials.IncludeCached "social/share.html" $page $page -}}
+        <h1 class="f1 athelas mt3 mb1">
+            {{- $page.Title -}}
+        </h1>
+        {{ with $page.Params.author | compare.Default $page.Site.Params.author }}
+        <p class="tracked">
+            {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
+            {{- lang.Translate "by" -}}
+            {{ end -}} <strong>
+                {{- if reflect.IsSlice . -}}
+                {{ collections.Delimit . ", " | transform.Markdownify }}
+                {{- else -}}
+                {{ . | transform.Markdownify }}
+                {{- end -}}
+            </strong>
+        </p>
+        {{ end }}
+    </header>
+
+    <div class="nested-copy-line-height lh-copy {{ $page.Param " post_content_classes" | compare.Default "serif" }} f4
+        nested-links {{ $page.Param "text_color" | compare.Default "mid-gray" }} {{ compare.Conditional (compare.Eq
+        $page.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l" }} {{ if $needs_aside }}w-two-thirds-l{{ else
+        }}w-100-l{{ end }}">
+        {{- $page.Content -}}
+        {{- partials.Include "tags.html" $page -}}
+
+        {{/* Navigation to previous article by date */}}
+        {{ $allPosts := sort (where $page.Site.RegularPages "Section" "in" $mainSections) "Date" "desc" }}
+        {{ $currentDate := $page.Date }}
+        {{ range $index, $post := $allPosts }}
+        {{ if eq $post.Date $currentDate }}
+        {{ $nextIndex := add $index 1 }}
+        {{ if lt $nextIndex (len $allPosts) }}
+        {{ $prevPost := index $allPosts $nextIndex }}
+        <div class="mt6 mb4">
+            <a href="{{ $prevPost.RelPermalink }}"
+                class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
+                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
+                    <title>chevronLeft icon</title>
+                    <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
+                </svg>
+                <span class="pl1">Article précédent</span>
+            </a>
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </div>
+
+    {{- if $needs_aside -}}
+    <aside class="w-30-l mt6-l">
+        {{- partials.Include "menu-contextual.html" $page -}}
+    </aside>
+    {{- end -}}
+
+</article>
+{{ end }}
+{{ end }}

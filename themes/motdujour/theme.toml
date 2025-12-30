@@ -1,0 +1,12 @@
+name = "Mot du Jour"
+license = "MIT"
+licenselink = "https://github.com/yourname/motdujour/blob/master/LICENSE"
+description = "A clean, blog-focused theme inspired by Accelerate WordPress theme"
+homepage = "https://github.com/yourname/motdujour"
+tags = ["blog", "clean", "simple", "responsive"]
+features = ["blog", "sidebar", "archives"]
+min_version = "0.112.0"
+
+[author]
+  name = "Alain"
+  homepage = "https://lemotdujour.fr"
