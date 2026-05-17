@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gestion du blog</title>
+    <link rel="stylesheet" href="/web/styles.css">
+</head>
+<body>
+    <aside class="sidebar">
+        <div class="brand">
+            <span>Le mot du jour</span>
+            <strong>Gestion locale</strong>
+        </div>
+        <button id="newArticleButton" class="primary">Nouvel article</button>
+        <label class="search">
+            Rechercher
+            <input id="searchInput" placeholder="Titre, tag, extrait...">
+        </label>
+        <div class="article-list" id="articleList"></div>
+    </aside>
+
+    <main class="workspace">
+        <header class="topbar">
+            <div>
+                <h1 id="screenTitle">Editeur</h1>
+                <p id="statusLine">Chargement des articles...</p>
+            </div>
+            <div class="topbar-actions">
+                <button id="buildButton">Build Hugo</button>
+                <button id="gitRefreshButton">Git</button>
+                <button id="saveButton" class="primary">Enregistrer</button>
+            </div>
+        </header>
+
+        <section class="panel metadata-panel">
+            <label>Titre <input id="titleInput"></label>
+            <label>Date <input id="dateInput" type="date"></label>
+            <label>Categories <input id="categoriesInput" placeholder="Mot du jour, Lecture"></label>
+            <label>Tags <input id="tagsInput" placeholder="Philosophie, Personnel"></label>
+            <label>Auteur <input id="authorInput" value="alain"></label>
+        </section>
+
+        <section class="panel import-panel">
+            <div>
+                <h2>Importer</h2>
+                <p>Les medias sont copies dans <code>static/wp-content/uploads/YYYY/MM</code>.</p>
+            </div>
+            <label class="file-button">
+                Word vers article
+                <input id="docxInput" type="file" accept=".docx">
+            </label>
+            <label class="file-button">
+                Media
+                <input id="mediaInput" type="file">
+            </label>
+            <button id="homepageButton">Mettre en premiere page</button>
+            <button id="homepageDefaultButton">Premiere page = dernier article</button>
+        </section>
+
+        <section class="editor-shell">
+            <nav class="toolbar" aria-label="Outils de mise en forme">
+                <button data-command="bold"><strong>B</strong></button>
+                <button data-command="italic"><em>I</em></button>
+                <button data-command="formatBlock" data-value="h2">Titre</button>
+                <button data-command="insertUnorderedList">Liste</button>
+                <button data-command="formatBlock" data-value="blockquote">Citation</button>
+                <button id="linkButton">Lien</button>
+                <button id="cleanButton">Nettoyer format</button>
+                <button id="toggleMarkdownButton">Markdown brut</button>
+            </nav>
+            <div id="visualEditor" class="visual-editor" contenteditable="true"></div>
+            <textarea id="markdownEditor" class="markdown-editor" spellcheck="true"></textarea>
+        </section>
+
+        <section class="panel git-panel" id="gitPanel" hidden>
+            <div class="git-header">
+                <h2>GitHub</h2>
+                <button id="closeGitButton">Fermer</button>
+            </div>
+            <div id="gitFiles" class="git-files"></div>
+            <label>Message de commit <input id="commitMessageInput" value="Update blog content"></label>
+            <label class="checkbox"><input id="pushCheckbox" type="checkbox" checked> Push apres commit</label>
+            <button id="commitButton" class="primary">Commit / push les fichiers coches</button>
+        </section>
+
+        <pre id="logOutput" class="log-output"></pre>
+    </main>
+
+    <script src="/web/app.js"></script>
+</body>
+</html>

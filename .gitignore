@@ -13,11 +13,14 @@ dist/
 # Dependencies
 node_modules/
 vendor/
+__pycache__/
+*.pyc
 
 # Environment files
 .env
 .env.local
 php-comments-app/config.php
+.blog-manager/
 
 # OS files
 .DS_Store

@@ -1,8 +1,12 @@
 {{ define "main" }}
 {{ $mainSections := site.Params.mainSections | default (slice "post") }}
 {{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
+{{ $frontpage := site.Data.frontpage | default dict }}
+{{ $manualPermalink := $frontpage.permalink | default "" }}
+{{ $manualPosts := cond (ne $manualPermalink "") (where $posts "RelPermalink" $manualPermalink) (slice) }}
+{{ $selectedPosts := cond (gt (len $manualPosts) 0) $manualPosts (first 1 (sort $posts "Date" "desc")) }}
 
-{{ with first 1 (sort $posts "Date" "desc") }}
+{{ with $selectedPosts }}
 {{ $page := index . 0 }}
 <article class="post hentry">
     <header class="entry-header">

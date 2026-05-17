@@ -1,0 +1,365 @@
+:root {
+    --bg: #f3f2ef;
+    --panel: #fff;
+    --line: #dedbd4;
+    --text: #2f2f2f;
+    --muted: #777;
+    --accent: #7f1d1d;
+    --accent-dark: #5f1414;
+    --focus: #255f85;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 320px minmax(0, 1fr);
+    min-height: 100vh;
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+button,
+input,
+textarea {
+    font: inherit;
+}
+
+button {
+    min-height: 34px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: #fff;
+    color: var(--text);
+    cursor: pointer;
+}
+
+button:hover {
+    border-color: var(--accent);
+}
+
+button.primary,
+.file-button {
+    border-color: var(--accent);
+    background: var(--accent);
+    color: #fff;
+}
+
+button.primary:hover,
+.file-button:hover {
+    background: var(--accent-dark);
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    min-width: 0;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: #fff;
+    color: var(--text);
+}
+
+input {
+    min-height: 34px;
+    padding: 6px 9px;
+}
+
+label {
+    display: grid;
+    gap: 5px;
+    color: #555;
+    font-size: 13px;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 100vh;
+    padding: 18px;
+    border-right: 1px solid var(--line);
+    background: #fbfaf8;
+}
+
+.brand {
+    display: grid;
+    gap: 3px;
+}
+
+.brand span {
+    color: var(--muted);
+    font-size: 13px;
+}
+
+.brand strong {
+    color: var(--accent);
+    font-size: 21px;
+    font-weight: 650;
+}
+
+.search {
+    margin-top: 4px;
+}
+
+.article-list {
+    display: grid;
+    gap: 8px;
+    overflow: auto;
+    padding-right: 4px;
+}
+
+.article-item {
+    display: grid;
+    gap: 5px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: #fff;
+    text-align: left;
+}
+
+.article-item.active {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent);
+}
+
+.article-item strong {
+    line-height: 1.25;
+}
+
+.article-item span {
+    color: var(--muted);
+    font-size: 12px;
+}
+
+.workspace {
+    display: grid;
+    grid-template-rows: auto auto auto minmax(360px, 1fr) auto auto;
+    gap: 14px;
+    min-width: 0;
+    padding: 18px 24px 28px;
+}
+
+.topbar,
+.panel {
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: var(--panel);
+}
+
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    padding: 14px 16px;
+}
+
+.topbar h1,
+.panel h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 650;
+}
+
+.topbar p,
+.panel p {
+    margin: 4px 0 0;
+    color: var(--muted);
+}
+
+.topbar-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.topbar-actions button,
+.import-panel button,
+.file-button {
+    padding: 0 12px;
+}
+
+.metadata-panel {
+    display: grid;
+    grid-template-columns: 2fr 160px 1fr 1fr 120px;
+    gap: 12px;
+    padding: 14px;
+}
+
+.import-panel {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 14px;
+}
+
+.import-panel > div {
+    min-width: 260px;
+    margin-right: auto;
+}
+
+.file-button {
+    display: inline-grid;
+    place-items: center;
+    min-height: 34px;
+    min-width: 130px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.file-button input {
+    display: none;
+}
+
+.editor-shell {
+    display: grid;
+    grid-template-rows: auto minmax(0, 1fr);
+    min-height: 0;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: var(--panel);
+    overflow: hidden;
+}
+
+.toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 8px;
+    border-bottom: 1px solid var(--line);
+    background: #fdfcfb;
+}
+
+.toolbar button {
+    min-width: 42px;
+    padding: 0 10px;
+}
+
+.visual-editor,
+.markdown-editor {
+    min-height: 500px;
+    padding: 28px 34px;
+    overflow: auto;
+    border: 0;
+    outline: 0;
+    background: #fff;
+}
+
+.visual-editor {
+    color: #333;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 1.58;
+}
+
+.visual-editor h1,
+.visual-editor h2,
+.visual-editor h3 {
+    font-family: system-ui, sans-serif;
+    line-height: 1.25;
+}
+
+.visual-editor blockquote {
+    margin-left: 0;
+    padding-left: 18px;
+    border-left: 4px solid var(--accent);
+    color: #8a1f1f;
+}
+
+.visual-editor img {
+    max-width: 100%;
+    height: auto;
+}
+
+.markdown-editor {
+    display: none;
+    resize: none;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.editor-shell.raw .visual-editor {
+    display: none;
+}
+
+.editor-shell.raw .markdown-editor {
+    display: block;
+}
+
+.git-panel {
+    padding: 14px;
+}
+
+.git-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.git-files {
+    display: grid;
+    gap: 6px;
+    max-height: 280px;
+    overflow: auto;
+    margin: 12px 0;
+    padding: 10px;
+    border: 1px solid var(--line);
+    border-radius: 5px;
+}
+
+.git-files label,
+.checkbox {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.git-files input,
+.checkbox input {
+    width: auto;
+    min-height: auto;
+}
+
+.log-output {
+    max-height: 220px;
+    margin: 0;
+    padding: 12px;
+    overflow: auto;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: #202124;
+    color: #f5f5f5;
+    white-space: pre-wrap;
+}
+
+@media (max-width: 1000px) {
+    body {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+        min-height: auto;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+    }
+
+    .article-list {
+        max-height: 300px;
+    }
+
+    .metadata-panel,
+    .import-panel,
+    .topbar {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
