@@ -4,7 +4,7 @@ defaultContentLanguage = 'fr'
 title = "Le mot du jour d'Alain"
 
 # Theme
-theme = 'ananke'
+theme = 'motdujour'
 
 # Pagination
 [pagination]

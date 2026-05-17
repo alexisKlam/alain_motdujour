@@ -1,42 +1,19 @@
 {{ define "main" }}
-<article class="post">
-    <header class="post-header">
-        <h1 class="post-title">{{ .Title }}</h1>
-        <div class="post-meta">
-            <time datetime="{{ .Date.Format " 2006-01-02" }}">
-                {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
-            </time>
-            {{ with .Params.author }}
-            <span class="author">Par {{ . }}</span>
-            {{ end }}
-            {{ with .Params.categories }}
-            <span class="categories">
-                {{ range . }}
-                <a href="{{ " categories" | relURL }}/{{ . | urlize }}">{{ . }}</a>
-                {{ end }}
-            </span>
-            {{ end }}
-            {{ with .Params.tags }}
-            <span class="tags">
-                {{ range . }}
-                <a href="{{ " tags" | relURL }}/{{ . | urlize }}">#{{ . }}</a>
-                {{ end }}
+<article class="post hentry">
+    <header class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+        <div class="entry-meta">
+            {{ with .Params.author }}<span class="byline">{{ . }}</span>{{ end }}
+            {{ if not .Date.IsZero }}
+            <span class="posted-on">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
             </span>
             {{ end }}
         </div>
     </header>
 
-    <div class="post-content">
+    <div class="entry-content">
         {{ .Content }}
     </div>
-
-    <nav class="post-navigation">
-        {{ with .PrevInSection }}
-        <a href="{{ .RelPermalink }}" class="prev">← {{ .Title }}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-        <a href="{{ .RelPermalink }}" class="next">{{ .Title }} →</a>
-        {{ end }}
-    </nav>
 </article>
 {{ end }}

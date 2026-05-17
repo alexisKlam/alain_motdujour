@@ -1,5 +1,5 @@
-<footer class="site-footer">
-    <div class="footer-container">
+<footer id="colophon" class="site-footer">
+    <div class="inner-wrap footer-container">
         <p class="copyright">
             Copyright © {{ now.Year }} {{ .Site.Title }}.
             {{ with .Site.Params.footerText }}{{ . | safeHTML }}{{ end }}

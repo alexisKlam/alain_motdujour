@@ -1,56 +1,35 @@
-<aside class="sidebar">
-    <!-- Articles récents -->
-    <div class="widget widget-recent-posts">
-        <h3 class="widget-title">Articles récents</h3>
+<aside id="secondary" class="sidebar widget-area">
+    <section class="widget widget-search">
+        <form class="search-form" role="search" method="get" action="{{ "/" | relURL }}">
+            <label class="screen-reader-text" for="sidebar-search">Recherche</label>
+            <input id="sidebar-search" class="search-field" type="search" name="s" placeholder="Recherche">
+            <button class="search-submit" type="submit">Recherche</button>
+        </form>
+    </section>
+
+    <section class="widget widget-recent-posts">
+        <h3 class="widget-title widget-title-pencil">Articles récents</h3>
         <ul>
-            {{ range first 10 (where .Site.RegularPages "Type" "post") }}
+            {{ range first 5 (where .Site.RegularPages "Type" "post") }}
             <li>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </li>
             {{ end }}
         </ul>
-    </div>
+    </section>
 
-    <!-- Archives -->
-    <div class="widget widget-archives">
-        <h3 class="widget-title">Archives</h3>
+    <section class="widget widget-archives">
+        <h3 class="widget-title widget-title-clock">Archives</h3>
         <ul>
             {{ range (where .Site.RegularPages "Type" "post").GroupByDate "January 2006" }}
             {{ $firstPage := index .Pages 0 }}
             <li>
-                <a href="{{ .Key | relURL }}">
+                <a href="{{ "/post/" | relURL }}">
                     {{ index $.Site.Data.months (printf "%d" $firstPage.Date.Month) }} {{ $firstPage.Date.Year }}
                 </a>
-                <span class="count">({{ len .Pages }})</span>
             </li>
             {{ end }}
         </ul>
-    </div>
+    </section>
 
-    <!-- Catégories -->
-    {{ with .Site.Taxonomies.categories }}
-    <div class="widget widget-categories">
-        <h3 class="widget-title">Catégories</h3>
-        <ul>
-            {{ range . }}
-            <li>
-                <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-                <span class="count">({{ len .Pages }})</span>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-    {{ end }}
-
-    <!-- Tags cloud -->
-    {{ with .Site.Taxonomies.tags }}
-    <div class="widget widget-tags">
-        <h3 class="widget-title">Les étiquettes</h3>
-        <div class="tagcloud">
-            {{ range . }}
-            <a href="{{ .Page.RelPermalink }}" class="tag">{{ .Page.Title }}</a>
-            {{ end }}
-        </div>
-    </div>
-    {{ end }}
 </aside>

@@ -1,113 +1,56 @@
-{{ define "header" }}
-{{/* We can override any block in the baseof file be defining it in the template */}}
-{{ partials.Include "page-header.html" . }}
-{{ end }}
-
 {{ define "main" }}
-{{- $related_content := .RegularPages.Related . -}}
-{{- $needs_aside := or .Params.toc $related_content -}}
-{{ $page := .}}
-{{ $section := .Site.GetPage "section" .Section }}
-<article class="flex-l {{ if $needs_aside }}mw8{{ else }}mw7{{ end }} center ph3 flex-wrap justify-between">
-  <header class="mt4 w-100">
-    {{/* Section title commented out
-    <aside class="instapaper_ignoref b helvetica tracked ttu">
-      {{/*
-      CurrentSection allows us to use the section title instead of inferring from the folder.
-      https://gohugo.io/variables/page/#section-variables-and-methods
-      *-/}}
-      {{ .CurrentSection.Title }}
-    </aside>
-    */}}
-    {{- partials.IncludeCached "social/share.html" . . -}}
-    <h1 class="f1 athelas mt3 mb1">
-      {{- .Title -}}
-    </h1>
-    {{ with .Params.author | compare.Default .Site.Params.author }}
-    <p class="tracked">
-      {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
-      {{- lang.Translate "by" -}}
-      {{ end -}} <strong>
-        {{- if reflect.IsSlice . -}}
-        {{ collections.Delimit . ", " | transform.Markdownify }}
-        {{- else -}}
-        {{ . | transform.Markdownify }}
-        {{- end -}}
-      </strong>
-    </p>
-    {{ end }}
-    {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-    {{/* Date display removed - uncomment below to show date
-    {{ if not .Date.IsZero }}
-    <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s" ` (.Date.Format "2006-01-02T15:04:05Z07:00" ) |
-      safe.HTMLAttr }}>
-      {{- .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) -}}
-    </time>
-    {{end}}
-    */}}
+{{ $page := . }}
+<article class="post hentry">
+    <header class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+        <div class="entry-meta">
+            {{ with .Params.author }}
+            <span class="byline">{{ . }}</span>
+            {{ end }}
+            {{ with .Params.categories }}
+            <span class="cat-links">
+                {{ range $index, $category := . }}{{ if $index }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ $category | urlize }}/">{{ $category }}</a>{{ end }}
+            </span>
+            {{ end }}
+            {{ if not .Date.IsZero }}
+            <span class="posted-on">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                </time>
+            </span>
+            {{ end }}
+            <span class="comments-link">0 commentaire</span>
+        </div>
+    </header>
 
-    {{/*
-    Show "reading time" and "word count" but only if one of the following are true:
-    1) A global config `params` value is set `show_reading_time = true`
-    2) A section front matter value is set `show_reading_time = true`
-    3) A page front matter value is set `show_reading_time = true`
-    */}}
-    {{ if (or (compare.Eq (.Param "show_reading_time") true) (compare.Eq $section.Params.show_reading_time true) )}}
-    {{ $readingTime := .ReadingTime }}
-    {{ with .Site.Params.reading_speed }}
-    {{ $readingTime = div (float $.WordCount) . }}
-    {{ $readingTime = math.Ceil $readingTime }}
-    {{ $readingTime = int $readingTime }}
-    {{ end }}
-    <span class="f6 mv4 dib tracked"> - {{ lang.Translate "readingTime" $readingTime }} </span>
-    <span class="f6 mv4 dib tracked"> - {{ lang.Translate "wordCount" .WordCount }} </span>
-    {{ end }}
-  </header>
-  <div class="nested-copy-line-height lh-copy {{ $.Param " post_content_classes" | compare.Default "serif" }} f4
-    nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }} {{ compare.Conditional (compare.Eq
-    $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l" }} {{ if $needs_aside }}w-two-thirds-l{{ else }}w-100-l{{
-    end }}">
-    {{- .Content -}}
-    {{- partials.Include "tags.html" . -}}
+    <div class="entry-content">
+        {{ .Content }}
+        {{ with .Params.tags }}
+        <div class="tag-links">
+            {{ range . }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
 
-    {{/* Navigation to previous article by date */}}
-    {{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
+    {{ $mainSections := site.Params.mainSections | default (slice "post") }}
     {{ $allPosts := sort (where .Site.RegularPages "Section" "in" $mainSections) "Date" "desc" }}
-    {{ $currentDate := .Date }}
     {{ range $index, $post := $allPosts }}
-    {{ if eq $post.Date $currentDate }}
-    {{ $nextIndex := add $index 1 }}
-    {{ if lt $nextIndex (len $allPosts) }}
-    {{ $prevPost := index $allPosts $nextIndex }}
-    <div class="mt6 mb4">
-      <a href="{{ $prevPost.RelPermalink }}"
-        class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
-        <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
-          <title>chevronLeft icon</title>
-          <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
-        </svg>
-        <span class="pl1">Article précédent</span>
-      </a>
-    </div>
+    {{ if eq $post.RelPermalink $page.RelPermalink }}
+    <nav class="post-navigation">
+        {{ $nextIndex := add $index 1 }}
+        {{ if lt $nextIndex (len $allPosts) }}
+        {{ $prevPost := index $allPosts $nextIndex }}
+        <a class="nav-previous" href="{{ $prevPost.RelPermalink }}">← Précédent</a>
+        {{ end }}
+        {{ $previousIndex := sub $index 1 }}
+        {{ if ge $previousIndex 0 }}
+        {{ $nextPost := index $allPosts $previousIndex }}
+        <a class="nav-next" href="{{ $nextPost.RelPermalink }}">Suivant →</a>
+        {{ end }}
+    </nav>
     {{ end }}
     {{ end }}
-    {{ end }}
-
-    <div class="mt6 instapaper_ignoref">
-      {{ if .Site.Config.Services.Disqus.Shortname }}
-      {{/* former internal template */}}
-      {{ partial "disqus.html" . }}
-      {{ end }}
-      {{ if .Site.Params.commentoEnable }}
-      {{- partials.Include "commento.html" . -}}
-      {{ end }}
-    </div>
-  </div>
-  {{- if $needs_aside -}}
-  <aside class="w-30-l mt6-l">
-    {{- partials.Include "menu-contextual.html" . -}}
-  </aside>
-  {{- end -}}
-
 </article>
 {{ end }}

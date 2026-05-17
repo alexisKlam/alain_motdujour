@@ -1,27 +1,29 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default " fr" }}">
+<html lang="{{ .Site.LanguageCode | default "fr" }}">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ .Site.Params.description }}">
-    <link rel="stylesheet" href="{{ " css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     {{ block "head" . }}{{ end }}
 </head>
 
 <body>
-    {{ partial "header.html" . }}
+    <div id="page" class="site">
+        {{ partial "header.html" . }}
 
-    <div class="container">
-        <main class="content">
+        <div id="main" class="site-main inner-wrap">
+            <main id="primary" class="content-area">
             {{ block "main" . }}{{ end }}
-        </main>
+            </main>
 
-        {{ partial "sidebar.html" . }}
+            {{ partial "sidebar.html" . }}
+        </div>
+
+        {{ partial "footer.html" . }}
     </div>
-
-    {{ partial "footer.html" . }}
 </body>
 
 </html>

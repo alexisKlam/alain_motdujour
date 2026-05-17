@@ -1,70 +1,45 @@
 {{ define "main" }}
+{{ $mainSections := site.Params.mainSections | default (slice "post") }}
+{{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
 
-{{/* Display only the latest post by date */}}
-{{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
-{{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
-
-{{ with (collections.First 1 (sort $section "Date" "desc")) }}
+{{ with first 1 (sort $posts "Date" "desc") }}
 {{ $page := index . 0 }}
-{{ $needs_aside := or $page.Params.toc false }}
-
-<article class="flex-l {{ if $needs_aside }}mw8{{ else }}mw7{{ end }} center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100">
-        {{- partials.IncludeCached "social/share.html" $page $page -}}
-        <h1 class="f1 athelas mt3 mb1">
-            {{- $page.Title -}}
-        </h1>
-        {{ with $page.Params.author | compare.Default $page.Site.Params.author }}
-        <p class="tracked">
-            {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
-            {{- lang.Translate "by" -}}
-            {{ end -}} <strong>
-                {{- if reflect.IsSlice . -}}
-                {{ collections.Delimit . ", " | transform.Markdownify }}
-                {{- else -}}
-                {{ . | transform.Markdownify }}
-                {{- end -}}
-            </strong>
-        </p>
-        {{ end }}
+<article class="post hentry">
+    <header class="entry-header">
+        <h2 class="entry-title">
+            <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+        </h2>
+        <div class="entry-meta">
+            <span class="posted-on">
+                <time datetime="{{ $page.Date.Format "2006-01-02" }}">
+                    {{ $page.Date.Day }} {{ index $.Site.Data.months (printf "%d" $page.Date.Month) }} {{ $page.Date.Year }}
+                </time>
+            </span>
+            {{ with $page.Params.categories }}
+            <span class="cat-links">
+                {{ delimit . ", " }}
+            </span>
+            {{ end }}
+            <span class="comments-link">0 commentaire</span>
+        </div>
     </header>
 
-    <div class="nested-copy-line-height lh-copy {{ $page.Param " post_content_classes" | compare.Default "serif" }} f4
-        nested-links {{ $page.Param "text_color" | compare.Default "mid-gray" }} {{ compare.Conditional (compare.Eq
-        $page.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l" }} {{ if $needs_aside }}w-two-thirds-l{{ else
-        }}w-100-l{{ end }}">
-        {{- $page.Content -}}
-        {{- partials.Include "tags.html" $page -}}
-
-        {{/* Navigation to previous article by date */}}
-        {{ $allPosts := sort (where $page.Site.RegularPages "Section" "in" $mainSections) "Date" "desc" }}
-        {{ $currentDate := $page.Date }}
-        {{ range $index, $post := $allPosts }}
-        {{ if eq $post.Date $currentDate }}
-        {{ $nextIndex := add $index 1 }}
-        {{ if lt $nextIndex (len $allPosts) }}
-        {{ $prevPost := index $allPosts $nextIndex }}
-        <div class="mt6 mb4">
-            <a href="{{ $prevPost.RelPermalink }}"
-                class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
-                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
-                    <title>chevronLeft icon</title>
-                    <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
-                </svg>
-                <span class="pl1">Article précédent</span>
-            </a>
-        </div>
-        {{ end }}
-        {{ end }}
-        {{ end }}
+    <div class="entry-content">
+        {{ $page.Content }}
     </div>
 
-    {{- if $needs_aside -}}
-    <aside class="w-30-l mt6-l">
-        {{- partials.Include "menu-contextual.html" $page -}}
-    </aside>
-    {{- end -}}
-
+    {{ $allPosts := sort $posts "Date" "desc" }}
+    {{ range $index, $post := $allPosts }}
+    {{ if eq $post.RelPermalink $page.RelPermalink }}
+    {{ $nextIndex := add $index 1 }}
+    {{ if lt $nextIndex (len $allPosts) }}
+    {{ $prevPost := index $allPosts $nextIndex }}
+    <nav class="post-navigation">
+        <a class="nav-previous" href="{{ $prevPost.RelPermalink }}">← Précédent</a>
+    </nav>
+    {{ end }}
+    {{ end }}
+    {{ end }}
 </article>
 {{ end }}
 {{ end }}
