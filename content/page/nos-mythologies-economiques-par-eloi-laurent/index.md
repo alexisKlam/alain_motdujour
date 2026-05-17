@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>A la suite de l&rsquo;écoute d&rsquo;une émission de France Culture, j&rsquo;ai été convaincu de l&rsquo;intérêt du livre d’Eloi Laurent : « <strong>Nos mythologies économiques</strong> ».<br /> </em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><a href="http://www.editionslesliensquiliberent.fr/livre-Nos_mythologies_%C3%A9conomiques-477-1-1-0-1.html"><img loading="lazy" decoding="async" class=" wp-image-11371 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/05/Nos-mythologies-economiques.png" alt="" width="359" height="507" srcset="https://lemotdujour.fr/wp-content/uploads/2021/05/Nos-mythologies-economiques.png 447w, https://lemotdujour.fr/wp-content/uploads/2021/05/Nos-mythologies-economiques-212x300.png 212w" sizes="auto, (max-width: 359px) 100vw, 359px" /></a>Je l&rsquo;ai donc acheté et lu.<br /> </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><a href="http://www.editionslesliensquiliberent.fr/livre-Nos_mythologies_%C3%A9conomiques-477-1-1-0-1.html"><img loading="lazy" decoding="async" class=" wp-image-11371 alignleft" src="/wp-content/uploads/2021/05/Nos-mythologies-economiques.png" alt="" width="359" height="507" sizes="auto, (max-width: 359px) 100vw, 359px" /></a>Je l&rsquo;ai donc acheté et lu.<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Il pose cette question : « Comment sortir l’économie de la croyance ? ». </em></span>
 
@@ -33,7 +33,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L&rsquo;auteur qui explique aussi le rôle que joue la mythologie économique auprès des décideurs politiques qui se soumettent à ce qu&rsquo;ils considèrent comme une autorité.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=2499">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/2499/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. « Qui assume les risques et les coûts de l’économie de marché ? Qui en possède les rentes ? »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Éloi Laurent « Nos mythologies économiques » page 18<br /> </span>
@@ -49,7 +49,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Eloi Laurent aborde aussi le lien entre les marchés économiques et l’État et tous les rideaux de fumée, selon sa propre formule, qui veulent camoufler l&rsquo;intérêt de ceux qui profitent de l’État tout en prétendant qu&rsquo;il faut s&rsquo;en méfier.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=2506">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/2506/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. «La poursuite de l’efficacité crée nécessairement des inégalités. Et ainsi la société est confrontée à un arbitrage entre égalité et efficacité»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Arthur Okun<br /> </span>
@@ -63,7 +63,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il en conteste la thèse centrale à savoir que la poursuite de l’efficacité ne peut que se réaliser par un creusement des inégalités.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=2517">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/2517/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « Le grand remplacement »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Mythologie inventée par Renaud Camus<br /> </span>
@@ -79,7 +79,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il explique qu&rsquo;il s&rsquo;agit de l&rsquo;évolution du discours xénophobe des extrêmes droites qui ont ajouté à leurs fantasmes d&rsquo;identité nationale l&rsquo;idée que l&rsquo;immigration menacerait l&rsquo;attachement des Européens à leur modèle social.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=2512">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/2512/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. «Il faut qu’une parole politisée fasse retour pour que le charme des mythologies économiques soit enfin rompu.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Éloi Laurent<br /> </span>
@@ -93,4 +93,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il lui apparait nécessaire de renouveler le récit politique.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=2522">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/2522/">Lire l&rsquo;article</a>

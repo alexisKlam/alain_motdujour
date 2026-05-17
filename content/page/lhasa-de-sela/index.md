@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Lhasa de Sela est née le 27 septembre 1972 à Big Indian, New York.<br /> </em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="wp-image-12728 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page01.jpg" alt="" width="306" height="306" srcset="https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page01.jpg 225w, https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page01-150x150.jpg 150w" sizes="auto, (max-width: 306px) 100vw, 306px" />Elle a vécu les premières années de sa vie de manière bohème avec ses sœurs et ses parents dans un bus scolaire qui sillonnait les routes des États-Unis et du Mexique.<br /> </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="wp-image-12728 alignleft" src="/wp-content/uploads/2021/11/Lhasa-Page01.jpg" alt="" width="306" height="306" sizes="auto, (max-width: 306px) 100vw, 306px" />Elle a vécu les premières années de sa vie de manière bohème avec ses sœurs et ses parents dans un bus scolaire qui sillonnait les routes des États-Unis et du Mexique.<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Elle chantait en trois langues : l&rsquo;espagnol, le français et l&rsquo;anglais.<br /> </em></span>
 
@@ -37,7 +37,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans ce premier article, je m&rsquo;intéressais surtout aux parents de Lhasa et à la manière dont se sont passées les premières années de sa vie.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12561">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12561/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. «&nbsp;La LLorona&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Premier album de Lhassa en 1997<br /> </span>
@@ -57,7 +57,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Cet album eut un grand succès et lança sa carrière.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12569">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12569/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. «&nbsp;Si elle ne se saignait pas à chaque représentation, elle croyait qu’elle trompait le public.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Rick Haworth, guitariste sur le deuxième album de Lhasa<br /> </span>
@@ -81,7 +81,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L&rsquo;exergue a été prononcée par le nouveau guitariste, celui qui a remplacé Desrosiers.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12600">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12600/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. «&nbsp;J’écris des chansons pour m’aider à avancer. Elles sont mes étoiles. Elles me guident dans la nuit.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Lhasa<br /> </span>
@@ -103,7 +103,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Elle ne put que commencer la tournée pour présenter l&rsquo;album elle dut l&rsquo;interrompre après deux concerts en Islande.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12625">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12625/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. «&nbsp;I’m going in.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Lhasa<br /> </span>
@@ -123,7 +123,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Même si elle n&rsquo;avait écrit que cette chanson, il faudrait se souvenir de Lhasa de Sela.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12651">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12651/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. «&nbsp;Lhasa de Sela qui remuait la vie de celles et ceux qui entendaient sa voix.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Vincent Delerm<br /> </span>
@@ -139,7 +139,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">J&rsquo;ai repris celui de Vincent Delerm que j&rsquo;ai trouvé particulièrement fort, beau et juste.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12671">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12671/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. «&nbsp;La dernière chanson de Lhasa.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Selon un récit de son ami Arthur H<br /> </span>
@@ -149,7 +149,7 @@ accelerate_page_layout:
   <span style="color: #7030a0; font-family: Arial;"><em>Mot du jour du Lundi 15 Novembre 2021<br /> </em></span>
 </p>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-12730 alignright" src="https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page03.jpg" alt="" width="426" height="216" srcset="https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page03.jpg 798w, https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page03-300x152.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/11/Lhasa-Page03-768x390.jpg 768w" sizes="auto, (max-width: 426px) 100vw, 426px" />Pour finir cette série je me suis intéressé à «&nbsp;La dernière chanson de Lhasa.&nbsp;»<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-12730 alignright" src="/wp-content/uploads/2021/11/Lhasa-Page03.jpg" alt="" width="426" height="216" sizes="auto, (max-width: 426px) 100vw, 426px" />Pour finir cette série je me suis intéressé à «&nbsp;La dernière chanson de Lhasa.&nbsp;»<br /> </span>
 
 <span style="color: #777777; font-family: Arial;">Non pas l&rsquo;album qui a été publié, à titre posthume en 2017, et qui était un enregistrement live des concerts de Reyjkavik.<br /> </span>
 
@@ -157,5 +157,5 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais la dernière chanson telle que Arthur H la décrite dans un récit émouvant.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=12676">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/12676/">Lire l&rsquo;article</a>
 

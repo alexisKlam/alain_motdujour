@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Michel Serres a été souvent cité dans les mots du jour.<br /> </em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em> <img loading="lazy" decoding="async" class="wp-image-7859 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2020/01/Michel-Serres.jpg" alt="" width="255" height="179" srcset="https://lemotdujour.fr/wp-content/uploads/2020/01/Michel-Serres.jpg 712w, https://lemotdujour.fr/wp-content/uploads/2020/01/Michel-Serres-300x211.jpg 300w" sizes="auto, (max-width: 255px) 100vw, 255px" />Il a été très inspirant pour moi, j&rsquo;aimais ses fulgurances, sa vision décalée et surtout son art de raconter et ses qualités pédagogiques.<br /> </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em> <img loading="lazy" decoding="async" class="wp-image-7859 alignleft" src="/wp-content/uploads/2020/01/Michel-Serres.jpg" alt="" width="255" height="179" sizes="auto, (max-width: 255px) 100vw, 255px" />Il a été très inspirant pour moi, j&rsquo;aimais ses fulgurances, sa vision décalée et surtout son art de raconter et ses qualités pédagogiques.<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Suite à une émission de la chaîne catholique KTO qui l&rsquo;avait interviewé à l&rsquo;occasion de la publication de son livre «Darwin, Bonaparte et le samaritain» et la republication de deux autres de ses livres, j&rsquo;ai voulu faire une série de mots du jour autour de cette émission et de ces 3 livres.<br /> </em></span>
 
@@ -49,7 +49,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Et que parallèlement nous avons besoin de reconnaître et d&rsquo;aller vers des personnes qui nous ressourcent.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 27/02/2017 " href="https://lemotdujour.fr/?p= 446=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 27/02/2017 " href="/post/446/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 2. «&nbsp;Je n’enseigne point, je raconte&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> « Michel de Montaigne<br /> Essais – Livre III – Chapitre II  »<br /> </span>
@@ -69,7 +69,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Cette qualité ne me semblant pas particulièrement partagée.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 28/02/2017 " href="https://lemotdujour.fr/?p= 448=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 28/02/2017 " href="/post/448/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 3. «&nbsp;Une philosophie de l’Histoire&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -85,7 +85,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Et pour introduire ce livre, il a d&rsquo;abord expliqué la nécessité d&rsquo;une philosophie de l&rsquo;Histoire<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 01/03/2017 " href="https://lemotdujour.fr/?p= 450=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 01/03/2017 " href="/post/450/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 4. «Le Grand Récit&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -103,7 +103,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Il passe ainsi en revue ces sciences qui permettent de raconter l&rsquo;histoire de l&rsquo;humanité, ce qu&rsquo;il appelle le grand récit.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 02/03/2017 " href="https://lemotdujour.fr/?p= 452=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 02/03/2017 " href="/post/452/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 5. «&nbsp;L’âge du monde&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Pascal Richet<br /> </span>
@@ -119,7 +119,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Avant c&rsquo;était les textes religieux qui avaient l&rsquo;ambition de dater l&rsquo;Histoire qui était dans ce cas très récente.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 03/03/2017 " href="https://lemotdujour.fr/?p= 454=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 03/03/2017 " href="/post/454/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 6. « Une nuit de Paris réparera cela. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Napoléon, propos qui lui sont attribués après le carnage de la bataille d’Eylau (1807)<br /> </span>
@@ -135,7 +135,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Dans ce mot du jour, nous en sommes à la seconde étape qui est l&rsquo;âge de la guerre qu&rsquo;il caractérise par le personnage de Napoléon.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 06/03/2017 " href="https://lemotdujour.fr/?p= 456=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 06/03/2017 " href="/post/456/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 7. «&nbsp;Le premier âge est plus long qu’on ne le croit&nbsp;;<br /> Le deuxième pire qu’on ne le pense&nbsp;;<br /> Le dernier meilleur qu’on ne le dit.&nbsp;» »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres, «&nbsp;darwin, Bonaparte et le samaritain&nbsp;»<br /> </span>
@@ -151,7 +151,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Avec d&rsquo;autres, Michel Serres raconte ce paradoxe que nous pensons le monde violent, alors que l&rsquo;Histoire de l&rsquo;homme n&rsquo;avait jamais connu aussi peu de guerres, aussi peu de morts violentes.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 07/03/2017 " href="https://lemotdujour.fr/?p= 458 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 07/03/2017 " href="/post/458/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 8. «&nbsp;La parabole du bon samaritain&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Evangile selon Luc Chapitre 10<br /> </span>
@@ -171,7 +171,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Il y a bien longtemps maintenant j’avais acheté un livre de François Dolto qui avait pour titre, « L’Evangile au risque de la psychanalyse » et je me souviens encore de son explication de cette parabole et surtout du décalage absolu avec ce que j’avais compris des cours de religion et des différents curés qui avaient un jour parlé de cette parabole.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 08/03/2017 " href="https://lemotdujour.fr/?p= 460 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 08/03/2017 " href="/post/460/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 9. «&nbsp;De la manière de négocier avec les souverains&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> François de Callières (1645-1717)<br /> </span>
@@ -187,7 +187,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Michel Serres présente François de Callières comme symbole du deuxième héros de l’âge doux, le négociateur (le premier étant le médecin symbolisé par le samaritain).<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 09/03/2017 " href="https://lemotdujour.fr/?p=462 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 09/03/2017 " href="/post/462/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 10. «&nbsp;Steve Job a fini par reconnaître que le logo de la pomme croquée d’Apple faisait référence à la pomme empoisonnée avec laquelle Alan Türing avait mis fin à ses jours&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -205,7 +205,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Alan Turing, ce génie des mathématiques et de l&rsquo;informatique qui s&rsquo;est suicidé en mangeant une pomme parce qu&rsquo;il avait été condamné par la justice britannique pour la seule raison de son homosexualité.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 10/03/2017 " href="https://lemotdujour.fr/?p= 464 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 10/03/2017 " href="/post/464/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 11. «&nbsp;Michel, Michel, je ne suis pas aussi intelligent que tu ne le crois&nbsp;!&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Hergé à Michel Serres qui lui expliquait la profondeur philosophique des albums de Tintin (dans l’interview d’Emmanuelle Dancourt (23:55))<br /> </span>
@@ -223,7 +223,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Quand le mot n’existe pas, doit-on douter de la chose ? »<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 13/03/2017 " href="https://lemotdujour.fr/?p=466 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 13/03/2017 " href="/post/466/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 12. «&nbsp;Le fétiche rafistolé&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Objet présent dans «&nbsp;L’oreille cassée&nbsp;» 6ème album de Tintin et sur lequel Michel Serres philosophe dans l’interview d’Emmanuelle Dancourt<br /> </span>
@@ -241,7 +241,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">C’est sur ce fétiche rafistolé que Michel Serres va philosopher<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 14/03/2017 " href="https://lemotdujour.fr/?p= 468 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 14/03/2017 " href="/post/468/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 13. «&nbsp;La science c’est ce qu’un vieux apprend à un jeune. La technologie&nbsp;, c’est ce qu’un jeune apprend à un vieux.&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres, dans l’interview de KTO<br /> </span>
@@ -255,7 +255,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">L&rsquo;exergue est celle qu&rsquo;il a donné et expliqué en quelques mots.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 15/03/2017 " href="https://lemotdujour.fr/?p= 470 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 15/03/2017 " href="/post/470/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 14. «&nbsp;Il n’y a pas qu’une vérité. Il y a des milliards de vérité»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -275,7 +275,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Pour Michel Serres, il n&rsquo;y a pas « une vérité »<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 16/03/2017 " href="https://lemotdujour.fr/?p=  472  <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 16/03/2017 " href="/post/472/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 15. «&nbsp;C’est le chemin le plus important.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -291,7 +291,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Et c&rsquo;est aussi cette vision que défend le philosophe en disant : «&nbsp;C’est le chemin le plus important.»<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 17/03/2017 " href="https://lemotdujour.fr/?p= 474  <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>  
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 17/03/2017 " href="/post/474/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>  
 <span style="color: #777777; font-family: Arial;"><br /> </span>  
  <span style="color: #777777; font-family: Arial;">Sur cette page j&rsquo;ajoute aux 15 mots de la série, les 3 consacrés à Michel Serres au moment de son décès.<br /> </span>
 
@@ -309,7 +309,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Je ne savais pas que c&rsquo;était sa dernière interview, au moment où j&rsquo;ai écrit ce mot du jour, 3 jours après l&rsquo;émission.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 29/05/2019 " href="https://lemotdujour.fr/?p=  6786  <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 29/05/2019 " href="/post/6786/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 17. «&nbsp;Le moraliste espiègle s’en est allé …&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres est décédé samedi 1er juin à 19 heures<br /> </span>
@@ -325,7 +325,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Mon hommage, en me rappelant certaines histoires et émissions, ne pouvaient qu&rsquo;être élogieux et plein de reconnaissance.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 03/06/2019 " href="https://lemotdujour.fr/?p= 6795  <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 03/06/2019 " href="/post/6795/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 18. «&nbsp;Le titulaire d’une marque&nbsp;est un fils, en droite ligne, de ces putains alexandrines&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Michel Serres<br /> </span>
@@ -343,4 +343,4 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Michel Serres prétend que cela remonte aux prostituées d&rsquo;Alexandrie…<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 05/06/2019 " href="https://lemotdujour.fr/?p= 6815 <span=">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 05/06/2019 " href="/post/6815/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>

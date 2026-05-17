@@ -19,7 +19,7 @@ accelerate_page_layout:
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Gâteaux qui devaient beaucoup à notre amie Françoise qui nous avait quasi tout appris dans ce domaine.<br /> </em></span>
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-12973" src="https://lemotdujour.fr/wp-content/uploads/2021/12/Gateaux-alsaciens.jpg" alt="" width="1126" height="541" srcset="https://lemotdujour.fr/wp-content/uploads/2021/12/Gateaux-alsaciens.jpg 1126w, https://lemotdujour.fr/wp-content/uploads/2021/12/Gateaux-alsaciens-300x144.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/12/Gateaux-alsaciens-1024x492.jpg 1024w, https://lemotdujour.fr/wp-content/uploads/2021/12/Gateaux-alsaciens-768x369.jpg 768w" sizes="auto, (max-width: 1126px) 100vw, 1126px" /> 
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-12973" src="/wp-content/uploads/2021/12/Gateaux-alsaciens.jpg" alt="" width="1126" height="541" sizes="auto, (max-width: 1126px) 100vw, 1126px" /> 
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>1. «&nbsp;Les gâteaux de Noël alsaciens&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Patrimoine culinaire alsacien<br /> </span>
@@ -39,7 +39,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Certaines et certains qui ont bénéficié de ce don les années passées, quand arrive la période de Noël, réclament d’ailleurs le renouvellement de l’offrande.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7584">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7584/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. «&nbsp;Anis Bredele&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°1<br /> </span>
@@ -51,7 +51,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Les gâteaux à l’anis constituent des souvenirs d’enfance. Ma mère en faisait de très bons et mon objectif a toujours été de pouvoir approcher cette perfection.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7597">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7597/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. «&nbsp;Les macarons aux amandes&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°2<br /> </span>
@@ -63,7 +63,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Comme pour les « Anis Bredele » les macarons aux amandes ou si on veut rester dans l’ambiance alsacienne « die Mandel Makrone » sont liés à mon enfance car ceux que faisait ma mère étaient succulents et mon objectif de pouvoir approcher cette perfection s’est révélé encore plus difficile.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7637">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7637/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. «&nbsp;Rhum bredele&nbsp;&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°3<br /> </span>
@@ -77,7 +77,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il présente l’immense avantage qu’après avoir fait les macarons aux amandes, vous disposez de jaunes d’œufs inutilisés. Ces gâteaux vont permettre de les utiliser. Et j’ai trouvé cette recette dans le livre que nous a offert Françoise et dont j’ai parlé lundi.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7663">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7663/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. «Pain d’épice de Nuremberg »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°4<br /> </span>
@@ -91,7 +91,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Elle nous a aussi permis de scanner son cahier dans lequel elle avait minutieusement écrit tous ses secrets.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7678">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7678/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. «&nbsp;Haselnuss Blattle&nbsp;»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°5 (aux noisettes)<br /> </span>
@@ -109,7 +109,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Pour arriver à cet « extrémisme » il faut beaucoup aimer les noisettes.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7737">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7737/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. «Spritz»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°6<br /> </span>
@@ -125,7 +125,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ce n’est pas notre terminologie, nous appelons ces gâteaux « Spritz » et puis c’est tout !<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7762">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7762/">Lire la recette</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>8. «Schwowe Bredele»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gâteaux de noël alsaciens n°7 (Sablés souabes)<br /> </span>
@@ -143,4 +143,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">« Spetzbuewe », ce sont des gateaux à la confiture.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=7774">Lire la recette</a>
+<a style="color: #0000ff;" href="/post/7774/">Lire la recette</a>

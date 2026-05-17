@@ -80,7 +80,7 @@ accelerate_page_layout:
   </div>
   
   <p>
-    <a class="mdjHistoLink" href="https://lemotdujour.fr/?p=1500">Lire l&rsquo;article</a>
+    <a class="mdjHistoLink" href="/post/1500/">Lire l&rsquo;article</a>
   </p>
   
   <p>
@@ -122,7 +122,7 @@ accelerate_page_layout:
     </div>
     
     <p>
-      <a class="mdjHistoLink" href="https://lemotdujour.fr/?p=1502">Lire l&rsquo;article</a>
+      <a class="mdjHistoLink" href="/post/1502/">Lire l&rsquo;article</a>
     </p>
     
     <div>
@@ -154,7 +154,7 @@ accelerate_page_layout:
       </div>
       
       <p>
-        <a class="mdjHistoLink" href="https://lemotdujour.fr/?p=1504">Lire l&rsquo;article</a>
+        <a class="mdjHistoLink" href="/post/1504/">Lire l&rsquo;article</a>
       </p>
       
       <p>
@@ -193,7 +193,7 @@ accelerate_page_layout:
         </div>
         
         <p>
-          <a class="mdjHistoLink" href="https://lemotdujour.fr/?p=1506"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
+          <a class="mdjHistoLink" href="/post/1506/"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
         </p>
       </div>
     </div>
@@ -202,4 +202,4 @@ accelerate_page_layout:
 
 &nbsp;
 
- [1]: https://lemotdujour.fr/?p=1498
+ [1]: /post/1498/

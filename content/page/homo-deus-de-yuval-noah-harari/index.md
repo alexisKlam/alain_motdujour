@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>J&rsquo;ai acheté le livre « <strong>Homo deus</strong> » dès sa sortie en septembre 2017. J&rsquo;avais été tellement enthousiasmé par le premier livre d&rsquo;Harari, « <strong>Sapiens</strong> », que j&rsquo;étais impatient de lire le second.<br /> </em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-full wp-image-12935 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/12/Yuval-Noah-Harari.jpg" alt="" width="456" height="304" srcset="https://lemotdujour.fr/wp-content/uploads/2021/12/Yuval-Noah-Harari.jpg 456w, https://lemotdujour.fr/wp-content/uploads/2021/12/Yuval-Noah-Harari-300x200.jpg 300w" sizes="auto, (max-width: 456px) 100vw, 456px" />Il m&rsquo;a fallu pourtant un an pour le lire et être en mesure de publier 8 mots du jour..<br /> </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-full wp-image-12935 alignleft" src="/wp-content/uploads/2021/12/Yuval-Noah-Harari.jpg" alt="" width="456" height="304" sizes="auto, (max-width: 456px) 100vw, 456px" />Il m&rsquo;a fallu pourtant un an pour le lire et être en mesure de publier 8 mots du jour..<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>J&rsquo;avais écrit un premier article dès l&rsquo;achat du livre (ici numéroté 0), ce qui fait que cette série compte 9 mots du jour.<br /> </em></span>
 
@@ -31,7 +31,7 @@ accelerate_page_layout:
   <span style="color: #7030a0; font-family: Arial;"><em>Mot du jour du jeudi 14 septembre 2017<br /> </em></span>
 </p>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-12937 alignright" src="https://lemotdujour.fr/wp-content/uploads/2021/12/Homo-deus.jpg" alt="" width="233" height="339" srcset="https://lemotdujour.fr/wp-content/uploads/2021/12/Homo-deus.jpg 264w, https://lemotdujour.fr/wp-content/uploads/2021/12/Homo-deus-206x300.jpg 206w" sizes="auto, (max-width: 233px) 100vw, 233px" />J&rsquo;ai acheté le livre le jour de sa sortie. Je ne pouvais donc que m&rsquo;appuyer sur ce que j&rsquo;avais appris de la lecture de « Sapiens <strong>»</strong> et des articles de journaux qui annonçaient ce nouvel ouvrage.<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-12937 alignright" src="/wp-content/uploads/2021/12/Homo-deus.jpg" alt="" width="233" height="339" sizes="auto, (max-width: 233px) 100vw, 233px" />J&rsquo;ai acheté le livre le jour de sa sortie. Je ne pouvais donc que m&rsquo;appuyer sur ce que j&rsquo;avais appris de la lecture de « Sapiens <strong>»</strong> et des articles de journaux qui annonçaient ce nouvel ouvrage.<br /> </span>
 
  <span style="color: #777777; font-family: Arial;">Sapiens se terminait par un épilogue dont le titre est : « <strong>un animal devenu Dieu ?</strong> ». Il annonçait donc « Homo deus ».<br /> </span>
 
@@ -39,7 +39,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Je citais aussi un entretien que <strong>Yuval Noah Harari</strong> avait accordé au Point et dans lequel il expliquait ses inquiétudes par rapport à notre vision humaniste lorsque des algorithmes, de plus en plus puissants, nous dicteront les bonnes décisions à prendre et que les techniques permettront de créer « l&rsquo;homme augmenté » que désire les transhumanistes<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=3100">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/3100/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>1. « Tous les scénarios esquissés dans ce livre doivent être compris comme des possibilités et non comme des prophéties. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari « Homo Deus » Page 425<br /> </span>
@@ -59,7 +59,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">«<strong>Je souhaite que mes lecteurs trouvent dans mes livres des questions plutôt que des réponses.</strong> »<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5455">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5455/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. « Par rapport aux autres animaux, cela fait longtemps que les humains sont devenus des dieux. Nous n’aimons pas y penser trop sérieusement parce que nous n’avons pas été des dieux particulièrement justes ou miséricordieux. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari « Homo deus » page 85<br /> </span>
@@ -79,7 +79,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Cette démarche si on la compare aux récits religieux consiste à vouloir se mettre à l&rsquo;égal de Dieu.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5467">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5467/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. « la révolution agricole a donné aux hommes le pouvoir d’assurer la survie et la reproduction des animaux domestiques, tout en ignorant leurs besoins subjectifs  »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari, « Homo deus » page 97<br /> </span>
@@ -105,7 +105,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">La maltraitance des animaux viendrait de cette origine.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5493">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5493/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « Rien de métaphysique dans tout cela. Uniquement des problèmes techniques »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari parlant de la mort dans « Homo deus » page 35<br /> </span>
@@ -131,7 +131,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et tout problème technique trouve une solution technique.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5507">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5507/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. « Les guerres et les conflits qui ont jalonné l’histoire pourraient bien n’être qu’un pâle prélude au vrai combat qui nous attend : le combat pour la jeunesse éternelle »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari, « Homo deus » page 41<br /> </span>
@@ -151,7 +151,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dès que les efforts scientifiques seront couronnés de succès, ils déclencheront d’âpres conflits politiques. </span><span style="color: #777777; font-family: Arial;">Les guerres et les conflits qui ont jalonné l’histoire pourraient bien n’être qu’un pâle prélude au vrai combat qui nous attend : le combat pour la jeunesse éternelle. »<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5517">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5517/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. « La révolution humaniste, le libre arbitre et notre « moi » qui décide »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Développement de Yuval Noah Harari dans « Homo deus » pages 243 à321<br /> </span>
@@ -167,7 +167,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ces capacités de manipuler posent la question du libre arbitre des humains.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5504">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5504/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. « Le dataïsme : l’humanité n’aura été qu’une ondulation dans le flux de données cosmique. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Hariri : « Homo deus » page 425<br /> </span>
@@ -183,7 +183,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et il nous livre cette inquiétude : </span><span style="color: #777777; font-family: Arial;">«Mais du jour où l’autorité passera des hommes aux algorithmes, il se peut que les projets humanistes perdent toute pertinence. »<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5526">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5526/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>8. « Qu&rsquo;adviendra-t-il de la société, de la politique et de la vie quotidienne quand des algorithmes non conscients mais hautement intelligents nous connaîtrons mieux que nous nous connaissons ? »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari « Homo deus » ultime phrase du livre.<br /> </span>
@@ -201,4 +201,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il faut tenter de comprendre ces choses et y réfléchir pour savoir si nous voulons cette évolution et ce qu&rsquo;elle signifie vraiment.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5502">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5502/">Lire l&rsquo;article</a>

@@ -13,7 +13,7 @@ accelerate_page_layout:
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>L&rsquo;Histoire de France eut beaucoup de mal à parler et à expliquer cet évènement.<br /></em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class=" wp-image-11195 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/04/Les-grands-evenements-de-lHistoire-Histoire-de-la-commune-300x225.jpg" alt="" width="445" height="334" srcset="https://lemotdujour.fr/wp-content/uploads/2021/04/Les-grands-evenements-de-lHistoire-Histoire-de-la-commune-300x225.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/04/Les-grands-evenements-de-lHistoire-Histoire-de-la-commune.jpg 550w" sizes="auto, (max-width: 445px) 100vw, 445px" />Deux légitimités étaient aux prises : celle du gouvernement de Thiers issue d&rsquo;une élection nationale voulue par Bismarck pour remplacer le pouvoir absolu du second empire défait.<br /></em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class=" wp-image-11195 alignleft" src="/wp-content/uploads/2021/04/Les-grands-evenements-de-lHistoire-Histoire-de-la-commune.jpg" alt="" width="445" height="334" sizes="auto, (max-width: 445px) 100vw, 445px" />Deux légitimités étaient aux prises : celle du gouvernement de Thiers issue d&rsquo;une élection nationale voulue par Bismarck pour remplacer le pouvoir absolu du second empire défait.<br /></em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Celle de la Commune de Paris issue d&rsquo;un vote communal de la population parisienne.<br /></em></span>
 
@@ -47,7 +47,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans ce premier mot de la série, je discutai de la pertinence de l&rsquo;avis de l&rsquo;historien Pierre Nora qui privilégie Napoléon Ier.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10901">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10901/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. «La Commune de 1871 plonge ses racines dans la guerre franco-prussienne.»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Robert Baker<br /></span>
@@ -67,7 +67,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Le premier ressort de la Commune fut le refus d&rsquo;une partie du Peuple de Paris d&rsquo;accepter la défaite su second empire devant les prussiens.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10913">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10913/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. «&nbsp;Ils se levèrent pour la Commune, en écoutant chanter Pottier. Ils faisaient vivre la Commune en écoutant chanter Clément »<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Jean Ferrat<br /></span>
@@ -91,7 +91,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais il y en existe beaucoup d&rsquo;autres<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10927">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10927/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « La grande mesure de la Commune, ce fut sa propre existence »<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Karl Marx<br /></span>
@@ -111,7 +111,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Même si en fin de compte cela a raté.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10938">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10938/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. « On a d’un côté la légende noire des Versaillais pour qui les communards étaient des fous furieux et, de l’autre, la légende rouge pour la gauche qui en fait une récupération politique »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Michel Cordillot<br /> </span>
@@ -121,7 +121,7 @@ accelerate_page_layout:
   <span style="color: #7030a0; font-family: Arial;"><em>Mot du jour du Vendredi 26 mars 2021<br /> </em></span>
 </p>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-11199 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/04/med_le-palais-des-tuileries-apres-l-incendie-de-mai-1871-bhvp-roger-viollet-jpg.jpg" alt="" width="476" height="358" srcset="https://lemotdujour.fr/wp-content/uploads/2021/04/med_le-palais-des-tuileries-apres-l-incendie-de-mai-1871-bhvp-roger-viollet-jpg.jpg 1024w, https://lemotdujour.fr/wp-content/uploads/2021/04/med_le-palais-des-tuileries-apres-l-incendie-de-mai-1871-bhvp-roger-viollet-jpg-300x226.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/04/med_le-palais-des-tuileries-apres-l-incendie-de-mai-1871-bhvp-roger-viollet-jpg-768x578.jpg 768w" sizes="auto, (max-width: 476px) 100vw, 476px" />La Commune divise encore la droite et la gauche.<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-11199 alignleft" src="/wp-content/uploads/2021/04/med_le-palais-des-tuileries-apres-l-incendie-de-mai-1871-bhvp-roger-viollet-jpg.jpg" alt="" width="476" height="358" sizes="auto, (max-width: 476px) 100vw, 476px" />La Commune divise encore la droite et la gauche.<br /> </span>
 
 <span style="color: #777777; font-family: Arial;">Un épisode vécu en 2021 à l&rsquo;intérieur du Conseil de Paris le montre.<br /> </span>
 
@@ -131,7 +131,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">La Commune reste une plaie ouverte à l&rsquo;intérieur de la République.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10944">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10944/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. « Malgré toutes les hontes de la Commune, j’aime mieux être avec ces vaincus qu’avec [leurs] vainqueurs. »<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Louis Nathaniel Rossel<br /></span>
@@ -153,7 +153,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais au moment ultime, il choisit leur camp et préféra être fusillé que se rallier aux versaillais.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10965">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10965/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. «&nbsp;Gustave Courbet, la Commune et la destruction de la colonne Vendôme.&nbsp; »<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Une histoire du temps de la commune<br /></span>
@@ -173,7 +173,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il fut ruiné et mourut en exil.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10977">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10977/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>8. «&nbsp;S’il y a des miséreux dans la société, des gens sans asile, sans vêtements et sans pain, c’est que la société dans laquelle nous vivons est mal organisée.&nbsp;»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Louise Michel<br /></span>
@@ -193,7 +193,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Elle fut exilée en Nouvelle Calédonie et continua là bas d&rsquo;essayer de mettre en œuvre son humanisme.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10993">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10993/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>9. «&nbsp;Pas de révolution sans les femmes&nbsp;»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Carolyn J. Eichner<br /></span>
@@ -211,7 +211,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans ce mot je pus aussi parler de ce magnifique outil historique qu&rsquo;est le «Maitron»<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11001">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11001/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>10. « Si nous réussissions à transformer radicalement le régime social, la révolution du 18 mars serait la plus efficace de celles qui ont eu lieu jusqu’à présent. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Léo Frankel<br /> </span>
@@ -223,7 +223,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Léo Frankel fut le seul élu étranger de la Commune de Paris et le plus jeune des communards internationalistes. .<br /> </span>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-11198 alignright" src="https://lemotdujour.fr/wp-content/uploads/2021/04/13placedelacommunedeparis02.jpg" alt="" width="312" height="305" srcset="https://lemotdujour.fr/wp-content/uploads/2021/04/13placedelacommunedeparis02.jpg 383w, https://lemotdujour.fr/wp-content/uploads/2021/04/13placedelacommunedeparis02-300x294.jpg 300w" sizes="auto, (max-width: 312px) 100vw, 312px" />Il y eut d’autres étrangers qui participèrent à la révolte du commune ; mais ils n’étaient pas élu et ne faisaient pas partie du Conseil de le Commune<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class=" wp-image-11198 alignright" src="/wp-content/uploads/2021/04/13placedelacommunedeparis02.jpg" alt="" width="312" height="305" sizes="auto, (max-width: 312px) 100vw, 312px" />Il y eut d’autres étrangers qui participèrent à la révolte du commune ; mais ils n’étaient pas élu et ne faisaient pas partie du Conseil de le Commune<br /> </span>
 
 <span style="color: #777777; font-family: Arial;">Il était d’origine juive, son père était médecin. Il était né en 1844 à Budapest.<br /> </span>
 
@@ -231,7 +231,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">A la fin de la semaine sanglante, il parvint à s&rsquo;enfuir et à rejoindre Marx à Londres.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11009">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11009/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>11. «&nbsp;Tant qu’un homme pourra mourir de faim à la porte d’un palais où tout regorge, il n’y aura rien de stable dans les institutions humaines.&nbsp;»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Eugène Varlin<br /></span>
@@ -251,7 +251,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il fut lynché dans des conditions atroces à la fin de la semaine sanglante<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11022">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11022/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>12. «&nbsp;La Commune, c’était la joie, la fête&nbsp;: pour la première fois, ils ne sont plus la vile multitude mais enfin des êtres humains, libres, beaucoup vont vivre cette liberté et cette joie jusqu’à se faire tuer.&nbsp;»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Michèle Audin<br /></span>
@@ -271,7 +271,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Michèle Audin exprima cette effervescence par une formule lumineuse.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11028">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11028/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>13. «&nbsp;Une fois perdus le bon Dieu et les lendemains qui chantent, que reste-t-il ?&nbsp;»<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Régis Debray<br /></span>
@@ -291,7 +291,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Quand on ne croit plus ni à l&rsquo;un ni à l&rsquo;autre que reste t&rsquo;il ?<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11042">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11042/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>14. « La Commune ne se laisse pas réduire à un événement seulement parisien. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Maurice Moissonnier<br /> </span>
@@ -301,7 +301,7 @@ accelerate_page_layout:
   <span style="color: #7030a0; font-family: Arial;"><em>Mot du jour du Mardi 13 avril 2021<br /> </em></span>
 </p>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class="wp-image-11197 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon.jpg" alt="" width="454" height="340" srcset="https://lemotdujour.fr/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon.jpg 1280w, https://lemotdujour.fr/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon-300x225.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon-1024x768.jpg 1024w, https://lemotdujour.fr/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon-768x576.jpg 768w" sizes="auto, (max-width: 454px) 100vw, 454px" />La Commune ne fut pas qu&rsquo;un phénomène parisien.<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class="wp-image-11197 alignleft" src="/wp-content/uploads/2021/04/Hommage_aux_massacres_de_la_commune_de_Lyon.jpg" alt="" width="454" height="340" sizes="auto, (max-width: 454px) 100vw, 454px" />La Commune ne fut pas qu&rsquo;un phénomène parisien.<br /> </span>
 
 <span style="color: #777777; font-family: Arial;">D&rsquo;autres communes de province entrèrent dans cette lutte.<br /> </span>
 
@@ -311,7 +311,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais ce fut un autre quartier que la Croix Rousse qui cette fois fut le plus pugnace : celui de la Guilllotière.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11052">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11052/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>15. « Je suis avec vous ! j’ai cette sombre joie. Ceux qu’on accable, ceux qu’on frappe et qu’on foudroie m’attirent; je me sens leur frère. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Victor Hugo, « L’année terrible » – « A ceux qu’on foule aux pieds »<br /> </span>
@@ -321,7 +321,7 @@ accelerate_page_layout:
   <span style="color: #7030a0; font-family: Arial;"><em>Mot du jour du Mercredi 14 avril 2021<br /> </em></span>
 </p>
 
-<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class="wp-image-11211 alignright" src="https://lemotdujour.fr/wp-content/uploads/2021/04/Les-massacres-300x212.jpg" alt="" width="423" height="299" srcset="https://lemotdujour.fr/wp-content/uploads/2021/04/Les-massacres-300x212.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/04/Les-massacres.jpg 600w" sizes="auto, (max-width: 423px) 100vw, 423px" />La plupart des grands écrivains étaient contre la Commune.<br /> </span>
+<span style="color: #777777; font-family: Arial;"><img loading="lazy" decoding="async" class="wp-image-11211 alignright" src="/wp-content/uploads/2021/04/Les-massacres.jpg" alt="" width="423" height="299" sizes="auto, (max-width: 423px) 100vw, 423px" />La plupart des grands écrivains étaient contre la Commune.<br /> </span>
 
 <span style="color: #777777; font-family: Arial;">Victor Hugo qui enterra un de ses enfants le jour qui vit débuter la commune fut aussi hostile au début du mouvement.<br /> </span>
 
@@ -331,7 +331,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans soin recueil l&rsquo;année terrible il eut des mots sublimes sur ceux de la Commune.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11066">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11066/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>16. «Deux jours avant l’entrée des Versaillais dans Paris, la Commune avait consacré deux heures de son temps à parler de la culture ! »<br /></strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Jean-Louis Robert<br /></span>
@@ -349,4 +349,4 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">La liberté de la création et l’importance de la Culture constituent une des plus nobles œuvres que la Commune tenta de promouvoir.<br /></span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11083">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11083/">Lire l&rsquo;article</a>

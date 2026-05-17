@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Il peut paraître paradoxal d&rsquo;avoir consacré une série de mots du jour à Schubert et à ses dernières œuvres, l&rsquo;année 2020 qui est celle des 250 ans de la naissance de Beethoven.<br /></em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em> <img loading="lazy" decoding="async" class="size-full wp-image-9642 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2020/09/schubert_piano_franz.jpg" alt="" width="220" height="210" />A l&rsquo;analyse, je devais probablement acquitter ma dette envers Franz Schubert le musicien de l&rsquo;ombre mais qui pour moi a toujours été le musicien de l&rsquo;émotion et de l&rsquo;évidence, avant de pouvoir passer au monument Beethoven.<br /></em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em> <img loading="lazy" decoding="async" class="size-full wp-image-9642 alignleft" src="/wp-content/uploads/2020/09/schubert_piano_franz.jpg" alt="" width="220" height="210" />A l&rsquo;analyse, je devais probablement acquitter ma dette envers Franz Schubert le musicien de l&rsquo;ombre mais qui pour moi a toujours été le musicien de l&rsquo;émotion et de l&rsquo;évidence, avant de pouvoir passer au monument Beethoven.<br /></em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Schubert qui croisa Beethoven à Vienne sans jamais oser l&rsquo;aborder car il se sentait trop petit pour ce géant.<br /></em></span>
 
@@ -81,7 +81,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=8663"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 25 avril 2020</span></a> 
+        <a href="/post/8663/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 25 avril 2020</span></a> 
       </td>
     </tr>
     
@@ -95,7 +95,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=8733"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 2 mai 2020</span> </a>
+        <a href="/post/8733/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 2 mai 2020</span> </a>
       </td>
     </tr>
     
@@ -109,7 +109,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=8819"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 8 mai 2020</span></a> 
+        <a href="/post/8819/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 8 mai 2020</span></a> 
       </td>
     </tr>
     
@@ -123,7 +123,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=8831"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 9 mai 2020</span> </a>
+        <a href="/post/8831/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Samedi 9 mai 2020</span> </a>
       </td>
     </tr>
     
@@ -137,7 +137,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=8840"><span style="color: blue; font-family: Arial; text-decoration: underline;">Dimanche 10 mai 2020</span></a> 
+        <a href="/post/8840/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Dimanche 10 mai 2020</span></a> 
       </td>
     </tr>
     
@@ -151,7 +151,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9468"><span style="color: blue; font-family: Arial; text-decoration: underline;">Lundi 24 août 2020</span></a> 
+        <a href="/post/9468/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Lundi 24 août 2020</span></a> 
       </td>
     </tr>
     
@@ -165,7 +165,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9475"><span style="color: blue; font-family: Arial; text-decoration: underline;">Mercredi 26 août 2020</span> </a>
+        <a href="/post/9475/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Mercredi 26 août 2020</span> </a>
       </td>
     </tr>
     
@@ -179,7 +179,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9515"><span style="color: blue; font-family: Arial; text-decoration: underline;">Jeudi 27 août 2020</span> </a>
+        <a href="/post/9515/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Jeudi 27 août 2020</span> </a>
       </td>
     </tr>
     
@@ -193,7 +193,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9531"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 28 août 2020</span> </a>
+        <a href="/post/9531/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 28 août 2020</span> </a>
       </td>
     </tr>
     
@@ -207,7 +207,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9555"><span style="color: blue; font-family: Arial; text-decoration: underline;">Mardi 1 septembre 2020</span></a> 
+        <a href="/post/9555/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Mardi 1 septembre 2020</span></a> 
       </td>
     </tr>
     
@@ -221,7 +221,7 @@ accelerate_page_layout:
       </td>
       
       <td style="padding-left: 7px; padding-right: 7px; border-top: none; border-left: none; border-bottom: solid #bfbfbf 0.5pt; border-right: solid #bfbfbf 0.5pt;">
-        <a href="https://lemotdujour.fr/?p=9564"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 4 septembre 2020</span> </a>
+        <a href="/post/9564/"><span style="color: blue; font-family: Arial; text-decoration: underline;">Vendredi 4 septembre 2020</span> </a>
       </td>
     </tr>
   </table>

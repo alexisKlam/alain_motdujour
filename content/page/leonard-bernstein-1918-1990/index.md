@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Le 25 août 1918, naissait à Lawrence, dans le Massachusetts (États-Unis), Leonard Bernstein. C’est pourquoi en septembre 2018, j’ai consacré une série de mots à ce personnage considérable du monde des arts et de la musique du XXème siècle.<br /> </em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-medium wp-image-11261 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2021/05/blogleonardbernstein-300x297.jpg" alt="" width="300" height="297" srcset="https://lemotdujour.fr/wp-content/uploads/2021/05/blogleonardbernstein-300x297.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/05/blogleonardbernstein-150x150.jpg 150w, https://lemotdujour.fr/wp-content/uploads/2021/05/blogleonardbernstein.jpg 349w" sizes="auto, (max-width: 300px) 100vw, 300px" />Je citais La grande cantatrice allemande Christa Ludwig qui a beaucoup travaillé avec le musicien : «Léonard Bernstein ne faisait pas de la musique, il était la musique!»<br /> </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-medium wp-image-11261 alignleft" src="/wp-content/uploads/2021/05/blogleonardbernstein.jpg" alt="" width="300" height="297" sizes="auto, (max-width: 300px) 100vw, 300px" />Je citais La grande cantatrice allemande Christa Ludwig qui a beaucoup travaillé avec le musicien : «Léonard Bernstein ne faisait pas de la musique, il était la musique!»<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Depuis je l’ai entendu raconter une autre anecdote. Ils étaient ensemble à l’aéroport avec quelques autres musiciens. Brusquement une dame que Christa Ludwig décrit comme une personne assez simple l’interpelle et crie « Ah Lenny !». Immédiatement Bernstein lui ouvre les bras, l’enlace et l’embrasse. Puis entame une conversation avec elle, lui demande ce qu’elle devient et ce qu’elle fait en ce moment.<br /> </em></span>
 
@@ -33,7 +33,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il existe un enregistrement bouleversant du Requiem de Mozart qu’il a dédié à son épouse.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5236">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5236/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. « En apprenant aux autres, j’apprends d’eux»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Léonard Bernstein<br /> </span>
@@ -49,7 +49,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ces « <strong>Young People Concerts</strong> » qu’il donnait avec son orchestre Philharmonique de New York dans une immense salle, remplie d’enfants avec leurs parents, ont été enregistrés et sont toujours disponibles sous divers supports vidéos.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5252">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5252/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. « Grâce à [la musique], nous pouvons encore nous sentir unis et,j’en suis sûr, si nous voulons vraiment être des hommes, il est indispensable que nous soyons unis »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Léonard Bernstein<br /> </span>
@@ -63,7 +63,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il a eu plusieurs engagements contre la guerre au Viet-Nam, la défense des noirs qui lui ont valu l’hostilité d’une partie des élites américaines.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5258">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5258/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « Un petit démon »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Léonard Bernstein parlant de sa sexualité<br /> </span>
@@ -81,7 +81,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Car dans son désir homosexuel, il est difficile de ne pas comprendre qu&rsquo;il avait des attitudes de prédateur sexuel à l&rsquo;égard de jeunes hommes.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5269">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5269/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. « Meine Zeit wird kommen »« Mon temps viendra »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Gustav Mahler<br /> </span>
@@ -97,7 +97,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Comme Mahler, Bernstein pouvait prédire que son temps viendra.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=5281">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/5281/">Lire l&rsquo;article</a>
 
 <span style="color: #777777; font-family: Arial;">Et en mai 2018&#8230;.<br /> </span>
 
@@ -117,4 +117,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">C&rsquo;est une œuvre qui embrasse différentes cultures musicales et qui est difficilement racontable. Il faut la voir et l&rsquo;entendre.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=4677">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/4677/">Lire l&rsquo;article</a>

@@ -7,7 +7,7 @@ accelerate_page_layout:
   - default_layout
 
 ---
-<img loading="lazy" decoding="async" class="alignleft" src="https://lemotdujour.fr/wp-content/uploads/2017/06/062617_2110_BilletpourP1.jpg" alt="" width="135" height="192" align="left" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Yuval Noah Harari est un jeune homme, il est né en 1976 et il a écrit un livre «Sapiens »<br /> </em></span>
+<img loading="lazy" decoding="async" class="alignleft" src="/wp-content/uploads/2017/06/062617_2110_BilletpourP1.jpg" alt="" width="135" height="192" align="left" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Yuval Noah Harari est un jeune homme, il est né en 1976 et il a écrit un livre «Sapiens »<br /> </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Sur les conseils d&rsquo;un ami, j&rsquo;ai acheté et dévoré ce livre passionnant.<br /> </em></span>
 
@@ -35,7 +35,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Enfin, bouleversé la nature, la vie, la société par la révolution scientifique et industrielle. Existe-t-il un sujet de nature à nous intéresser davantage que l&rsquo;Histoire de notre espèce ?<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 23 mai 2016" href="https://lemotdujour.fr/?p=1338"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 23 mai 2016" href="/post/1338/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>02 &#8211; «La vérité est qu&rsquo;entre 2 millions d&rsquo;années et 10 000 ans, le monde a hébergé, en même temps, plusieurs espèces humaines.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari<br /> Sapiens : Une brève histoire de l&rsquo;humanité, Pages 15 à 30<br /> </span>
@@ -49,7 +49,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et puis il révèle un secret, au moins une réalité qui n&rsquo;a pas été pleinement explicitée jusqu&rsquo;ici, parce que il nous a été raconté une évolution du genre humain quasi linéaire, d&rsquo;un homo très proche du singe jusqu&rsquo;à l&rsquo;homo sapiens. Depuis quelques années cependant, l&rsquo;histoire de la cohabitation ou au moins de la présence simultanée sur terre de l&rsquo;homme de Neandertal et d&rsquo;homo sapiens a été révélée et interrogée. Mais Yuval Noah Harari va beaucoup plus loin dans cette description d&rsquo;espèces voisines.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 24 mai 2016" href="https://lemotdujour.fr/?p=2368"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 24 mai 2016" href="/post/2368/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>03 &#8211; «Seul l&rsquo;Homo sapiens peut parler de choses qui n&rsquo;existent pas vraiment. […]<br /> Ces mythes donnent aux sapiens une capacité sans précédent de coopérer en masse et en souplesse.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari<br /> Sapiens : Une brève histoire de l&rsquo;humanité page 36, puis 133-138<br /> </span>
@@ -69,7 +69,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et, c&rsquo;est cette faculté d&rsquo;inventer des histoires, des mythes, des religions qui ont donné à Sapiens les moyens de réunir des groupes, tribus, empires immenses liés par ces croyances communes. Aucune autre espèce n&rsquo;a jamais été capable de réunir autant d&rsquo;individus liés par un destin et des objectifs communs.</span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 25 mai 2016" href="https://lemotdujour.fr/?p=2378"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 25 mai 2016" href="/post/2378/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>04 &#8211; «Une des règles d&rsquo;airain de l&rsquo;Histoire est que toute hiérarchie imaginaire désavoue ses origines fictionnelles et se prétend naturelle et inévitable.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari<br /> Sapiens : Une brève histoire de l&rsquo;humanité pages 163-165<br /> </span>
@@ -83,7 +83,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans son chapitre huit qu&rsquo;il intitule « il n&rsquo;y a pas de justice dans l&rsquo;histoire », il remet en perspective à travers les exemples du code d&rsquo;Hammourabi et de la proclamation d&rsquo;indépendance de Philadelphie à la manière dont se sont structurées les sociétés des sapiens sur la base de ces textes et la manière dont ils se sont arrangés avec la réalité des faits.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Jeudi 26 mai 2016" href="https://lemotdujour.fr/?p=2382"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Jeudi 26 mai 2016" href="/post/2382/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>05 &#8211; « L&rsquo;ordre imaginaire façonne nos désirs. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari<br /> Sapiens : Une brève histoire de l&rsquo;humanité pages 142-144<br /> </span>
@@ -103,7 +103,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et l&rsquo;homme moderne se soumet à deux idéologies modernes dominantes : le romantisme et le consumérisme.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Vendredi 27 mai 2016" href="https://lemotdujour.fr/?p=1340"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Vendredi 27 mai 2016" href="/post/1340/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>06 &#8211; « L&rsquo;histoire donne de l&rsquo;Homo sapiens l&rsquo;image d&rsquo;un serial killer écologique »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Yuval Noah Harari<br /> Sapiens : Une brève histoire de l&rsquo;humanité pages 83 à 97<br /> </span>
@@ -123,7 +123,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Aujourd&rsquo;hui, des espèces continuent à disparaître massivement. Pour cette évolution contemporaine, le rôle de sapiens est évident, documenté et accablant. Harari nous dévoile que très probablement sapiens, dès qu&rsquo;il est devenu « le maître des espèces », a été plus qu&rsquo;un prédateur, un exterminateur !<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 30 mai 2016" href="https://lemotdujour.fr/?p=1342"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><em><br /> </em></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 30 mai 2016" href="/post/1342/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><em><br /> </em></span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>07 &#8211; « Kushim »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Premier nom d&rsquo;un Sapiens, conservé sur un support écrit, de l&rsquo;histoire des Sapiens. « Sapiens : Une brève histoire de l&rsquo;humanité » pages 151-152<br /> </span>
@@ -147,7 +147,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et nous apprenons ainsi l&rsquo;origine de la journée de 24 heures, au lieu d&rsquo;une journée de 10 heures ou de 100 heures par exemple. De même que les 60 minutes d&rsquo;une heure, ou les 60 secondes d&rsquo;une minute ou encore les 360° d&rsquo;un cercle viennent de Sumer :<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 31 mai 2016" href="https://lemotdujour.fr/?p=1344"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 31 mai 2016" href="/post/1344/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>08 &#8211; «Si l&rsquo;on veut comprendre l&rsquo;histoire économique moderne il n&rsquo;y a en vérité qu&rsquo;un seul mot à comprendre et ce mot, c&rsquo;est «croissance». »</strong><strong><br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">« Sapiens : Une brève histoire de l&rsquo;humanité » pages 357-364<br /> </span>
@@ -167,7 +167,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">«Si l&rsquo;on veut comprendre l&rsquo;histoire économique moderne il n&rsquo;y a en vérité qu&rsquo;un seul mot à comprendre. Et ce mot, c&rsquo;est « croissance ». Pour le meilleur ou pour le pire, malade ou en bonne santé, l&rsquo;économie moderne a cru tel un adolescent gavé d&rsquo;hormones. Elle avale tout ce qu&rsquo;elle trouve et pousse sans même qu&rsquo;on s&rsquo;en rende compte.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 1er juin 2016" href="https://lemotdujour.fr/?p=1346"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 1er juin 2016" href="/post/1346/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>09 &#8211; « En 1568, la Hollande était une simple province espagnole,<br /> 80 ans plus tard les Hollandais avaient évincé les espagnols pour devenir les maîtres des grandes routes océaniques et l&rsquo;Etat le plus riche d&rsquo;Europe.<br /> Le secret de la réussite hollandaise : le crédit »</strong><strong><br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Vraie histoire de l&rsquo;Espagne et des Pays Bas racontée par Harari Sapiens pages 372 à 375<br /> </span>
@@ -183,7 +183,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">En 1568, les hollandais, majoritairement protestants, se soulevèrent contre leur suzerain catholique espagnol. Au début, les rebelles ressemblaient à des Don Quichotte bataillant contre d&rsquo;invincibles moulins à vent. 80 ans plus tard les hollandais avaient non seulement arraché leur indépendance à l&rsquo;Espagne, mais aussi évincé les Espagnols et leurs alliés portugais pour devenir les maîtres des grandes routes océaniques et bâtir un empire mondial qui fit d&rsquo;eux l&rsquo;État le plus riche d&rsquo;Europe.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Jeudi 2 juin 2016" href="https://lemotdujour.fr/?p=1348"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Jeudi 2 juin 2016" href="/post/1348/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>10 &#8211; « Les fonds de Alexander Webster et Robert Wallace »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Une autre histoire racontée par Harari dans Sapiens pages 302 à 305<br /> </span>
@@ -221,7 +221,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Car il y a bien une philosophie en œuvre dans l&rsquo;imaginaire des penseurs des GAFA, le big data, les objets connectés, la capacité de fabriquer des organes humains, de remplacer des membres détruits par des objets créés etc… : La quête de l&rsquo;immortalité.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 6 juin 2016" href="https://lemotdujour.fr/?p=1352"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Lundi 6 juin 2016" href="/post/1352/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>12 &#8211; « La singularité »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">« Sapiens : Une brève histoire de l&rsquo;humanité » pages 483-489<br /> </span>
@@ -241,7 +241,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">En science, ce concept est surtout utilisé pour qualifier le « big bang ». Depuis le big bang nous disposons d&rsquo;outils et de théories qui peuvent décrire et expliquer comment l&rsquo;univers a évolué. Mais nous ne disposons d&rsquo;aucun élément de compréhension pour décrire ce qu&rsquo;il y avait avant. Le big bang est donc un point de singularité, c&rsquo;est une rupture.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 7 juin 2016" href="https://lemotdujour.fr/?p=1354"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mardi 7 juin 2016" href="/post/1354/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>13 &#8211; « Malgré les choses étonnantes dont les hommes sont capables, nous sommes peu sûrs de nos objectifs et paraissons plus que jamais insatisfaits. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">« Sapiens : Une brève histoire de l&rsquo;humanité » les deux dernières pages<br /> </span>
@@ -261,7 +261,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais avons-nous fait régresser la masse de souffrance dans le monde ?<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 8 juin 2016" href="https://lemotdujour.fr/?p=1356"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Mercredi 8 juin 2016" href="/post/1356/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>++ &#8211; « Sapere aude !<br /> Habe Mut dich deines eigenen Verstandes zu bedienen !»<br /> « </strong>Ose savoir !<br /> Aie le courage de te servir de ton propre entendement !»<br /> </span><span style="color: maroon; font-family: Arial; font-size: 12pt;"><strong>Emmanuel Kant</strong><br /> <a href="https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_que_les_Lumi%C3%A8res_%3F"><Qu&rsquo;est-ce que les Lumières ?></a> Essai de 1784<br /> </span>
@@ -277,6 +277,6 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans sa définition il fait d&rsquo;abord référence à une locution latine à l&rsquo;origine empruntée au poète latin <a href="https://fr.wikipedia.org/wiki/Horace">Horace</a> (-65,-8) (Épitres, I, 2, 40) qui signifie « Ose savoir ! ».<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="Vendredi 10 Juin 2016" href="https://lemotdujour.fr/?p=1358"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="Vendredi 10 Juin 2016" href="/post/1358/"><span style="font-family: Arial;">Lire l&rsquo;article</span></a></span>
 
- [1]: https://lemotdujour.fr/?p=1350 "Vendredi 3 juin 2016"
+ [1]: /post/1350/ "Vendredi 3 juin 2016"

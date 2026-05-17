@@ -8,7 +8,7 @@ accelerate_page_layout:
 
 ---
 <p style="padding-left: 60px;">
-  <img loading="lazy" decoding="async" class="size-medium wp-image-3441 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2017/11/110617_2317_Mercredi8no2-206x300.jpg" alt="" width="206" height="300" srcset="https://lemotdujour.fr/wp-content/uploads/2017/11/110617_2317_Mercredi8no2-206x300.jpg 206w, https://lemotdujour.fr/wp-content/uploads/2017/11/110617_2317_Mercredi8no2.jpg 220w" sizes="auto, (max-width: 206px) 100vw, 206px" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em>En 2017, on fêtait les 500 ans de la Réforme dont on marque la naissance le 31 octobre 1517. </em></span>
+  <img loading="lazy" decoding="async" class="size-medium wp-image-3441 alignleft" src="/wp-content/uploads/2017/11/110617_2317_Mercredi8no2.jpg" alt="" width="206" height="300" sizes="auto, (max-width: 206px) 100vw, 206px" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em>En 2017, on fêtait les 500 ans de la Réforme dont on marque la naissance le 31 octobre 1517. </em></span>
 </p>
 
 <p style="padding-left: 60px;">
@@ -49,7 +49,7 @@ accelerate_page_layout:
   </p>
   
   <p>
-    <a href="https://lemotdujour.fr/?p=2867"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
+    <a href="/post/2867/"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
   </p>
   
   <p>
@@ -89,7 +89,7 @@ accelerate_page_layout:
   </p>
   
   <p>
-    <a href="https://lemotdujour.fr/?p=3385"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
+    <a href="/post/3385/"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
   </p>
   
   <div>
@@ -143,7 +143,7 @@ accelerate_page_layout:
     </p>
     
     <p>
-      <a href="https://lemotdujour.fr/?p=3396"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
+      <a href="/post/3396/"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
     </p>
     
     <div>
@@ -185,7 +185,7 @@ accelerate_page_layout:
       </p>
       
       <p>
-        <a href="https://lemotdujour.fr/?p=3401"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
+        <a href="/post/3401/"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
       </p>
       
       <div>
@@ -235,7 +235,7 @@ accelerate_page_layout:
         </p>
         
         <p>
-          <a href="https://lemotdujour.fr/?p=3417"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
+          <a href="/post/3417/"><span style="color: #0000ff;">Lire l&rsquo;article </span></a>
         </p>
         
         <p>
@@ -287,7 +287,7 @@ accelerate_page_layout:
         </p>
         
         <p>
-          <span style="color: #777777; font-family: Arial;">Les paysans de Souabe ont notamment rédigés leurs revendications dans « douze articles ». L&rsquo;article 3 réclamait notamment « la suppression du servage » ou l&rsquo;article 5 « Le maintien des forêts communales », c&rsquo;est-à-dire le refus de leur privatisation au profit des seigneurs.<br /> </span><br /> <a href="https://lemotdujour.fr/?p=3427"><span style="color: #0000ff;">Lire l&rsquo;article</span> </a>
+          <span style="color: #777777; font-family: Arial;">Les paysans de Souabe ont notamment rédigés leurs revendications dans « douze articles ». L&rsquo;article 3 réclamait notamment « la suppression du servage » ou l&rsquo;article 5 « Le maintien des forêts communales », c&rsquo;est-à-dire le refus de leur privatisation au profit des seigneurs.<br /> </span><br /> <a href="/post/3427/"><span style="color: #0000ff;">Lire l&rsquo;article</span> </a>
         </p>
         
         <p>
@@ -319,7 +319,7 @@ accelerate_page_layout:
         </p>
         
         <p>
-          <span style="color: #777777; font-family: Arial;">Mais comme je l&rsquo;ai écrit plusieurs fois, Luther était un homme de Foi, plus précisément un fondamentaliste, aujourd&rsquo;hui on dirait un intégriste. Sa bienveillance à l&rsquo;égard des juifs entraîne chez lui pour seul but de les convertir au christianisme.<br /> </span><br /> <a href="https://lemotdujour.fr/?p=3433"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
+          <span style="color: #777777; font-family: Arial;">Mais comme je l&rsquo;ai écrit plusieurs fois, Luther était un homme de Foi, plus précisément un fondamentaliste, aujourd&rsquo;hui on dirait un intégriste. Sa bienveillance à l&rsquo;égard des juifs entraîne chez lui pour seul but de les convertir au christianisme.<br /> </span><br /> <a href="/post/3433/"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
         </p>
         
         <p>
@@ -351,7 +351,7 @@ accelerate_page_layout:
           </p>
           
           <p>
-            <span style="color: #777777; font-family: Arial;">Probablement que dans le conflit entre le réformateur intraitable et l&rsquo;humaniste pondéré nous serions aujourd&rsquo;hui beaucoup plus proche d&rsquo;Erasme.<br /> </span><br /> <a href="https://lemotdujour.fr/?p=3442"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
+            <span style="color: #777777; font-family: Arial;">Probablement que dans le conflit entre le réformateur intraitable et l&rsquo;humaniste pondéré nous serions aujourd&rsquo;hui beaucoup plus proche d&rsquo;Erasme.<br /> </span><br /> <a href="/post/3442/"><span style="color: #0000ff;">Lire l&rsquo;article</span></a>
           </p>
           
           <p>
@@ -391,7 +391,7 @@ accelerate_page_layout:
           </p>
           
           <p>
-            <a href="https://lemotdujour.fr/?p=3454">Lire l&rsquo;article</a>
+            <a href="/post/3454/">Lire l&rsquo;article</a>
           </p>
         </div>
       </div>

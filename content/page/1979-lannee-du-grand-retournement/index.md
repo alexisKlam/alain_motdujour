@@ -11,7 +11,7 @@ accelerate_page_layout:
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Nous étions en crise économique depuis peu, suite au choc pétrolier. Nous pensions que c’était une parenthèse et que bientôt la croissance reprendrait, ainsi que le progrès social et la réduction inéluctable des inégalités de revenus et de patrimoines dans nos pays occidentaux dans lesquelles les classes moyennes étaient dominantes.</em></span>
 
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="alignnone size-full wp-image-11945" src="https://lemotdujour.fr/wp-content/uploads/2021/07/Amin-Maalouf.jpg" alt="" width="996" height="641" srcset="https://lemotdujour.fr/wp-content/uploads/2021/07/Amin-Maalouf.jpg 996w, https://lemotdujour.fr/wp-content/uploads/2021/07/Amin-Maalouf-300x193.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2021/07/Amin-Maalouf-768x494.jpg 768w" sizes="auto, (max-width: 996px) 100vw, 996px" />Nous pensions aussi, mais c’était surtout vrai en France, que les religions allaient inexorablement reculer dans nos sociétés et que de moins en moins de personnes en tiendraient compte dans leur vie quotidienne. Il resterait une Foi intime, privée que certains continueraient à nourrir dans l’intimité.</em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="alignnone size-full wp-image-11945" src="/wp-content/uploads/2021/07/Amin-Maalouf.jpg" alt="" width="996" height="641" sizes="auto, (max-width: 996px) 100vw, 996px" />Nous pensions aussi, mais c’était surtout vrai en France, que les religions allaient inexorablement reculer dans nos sociétés et que de moins en moins de personnes en tiendraient compte dans leur vie quotidienne. Il resterait une Foi intime, privée que certains continueraient à nourrir dans l’intimité.</em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Nous pensions aussi que la Chine communiste resterait, encore longtemps, un pays sous développé avec une économie bureaucratique et peu performante.</em></span>
 
@@ -39,7 +39,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">J&rsquo;ai d&rsquo;abord souhaité traiter l&rsquo;hypothèse qu&rsquo;il développe dans la troisième partie de son livre :  » L&rsquo;année du grand retournement « , c&rsquo;est-à-dire l&rsquo;année 1979 qui selon lui a été décisive pour expliquer une grande partie de notre monde d&rsquo;aujourd&rsquo;hui<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11714">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11714/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. « L’année 1979 »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Année du grand retournement<br /> </span>
@@ -53,7 +53,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ceux que Amin Maalouf met en avant et les autres dont il parle peu ou pas du tout.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11723">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11723/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. « Désormais, c’est le conservatisme qui se proclamerait révolutionnaire, tandis que les tenants du « progressisme » et de la gauche n’auraient plus d’autre but que la conservation des acquis »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Amin Maalouf<br /> </span>
@@ -71,7 +71,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il sera élu grâce à son charisme et ses talents d&rsquo;acteur mais aussi grâce aux évènements d&rsquo;Iran qui seront désastreux pour l&rsquo;image du Président sortant : Jimmy Carter.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11739">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11739/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « Atlas Shruggeds »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Ayn Rand<br /> </span>
@@ -89,7 +89,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ayn Rand est une des principales porteuses de ce récit, adulée aux Etats-Unis et fort peu connue en France.</span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11750">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11750/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. « L’égoïsme rationnel »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Ayn Rand<br /> </span>
@@ -105,7 +105,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ce sont nos contradictions qui nous rendent fécond aurait dit Nietsche.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11767">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11767/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. « Vous ne pouvez pas comprendre »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Des iraniens à Marc Kravetz qui essyait de décrire ce qui se passait lors de la révolution islamique à Téhéran.<br /> </span>
@@ -123,7 +123,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et nous avons appris, à nos dépens, qu&rsquo;il était pire.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11783">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11783/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. « 444 jours ! »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Durée de la prise d’otage des diplomates américains dans l’ambassade de Téhéran qui a débuté le 4 novembre 1979.<br /> </span>
@@ -141,7 +141,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Nous apprendrons que Reagan et son entourage joueront un rôle délétère dans cet épisode.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11799">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11799/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>8. « Il est illusoire de penser qu’en se montrant radical, on fait taire les radicaux. C’est souvent l’inverse qui se produit.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Amin Maalouf<br /> </span>
@@ -159,7 +159,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L&rsquo;épisode inspirera d&rsquo;autres fanatiques qui iront d&rsquo;abord combattre en Afghanistan avant d&rsquo;engager des actions terroristes dans les pays musulmans et dans les pays occidentaux.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11827">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11827/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>9. « Peu de révolutions dans l’histoire ont changé en profondeur la vie d’un si grand nombre d’hommes et de femmes en un temps si court. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Amin Maalouf évoquant les réformes conduit par Deng Xiaoping à partir de 1979<br /> </span>
@@ -177,7 +177,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il crée ainsi un nouveau système économique dynamique mais sans la liberté politique.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11840">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11840/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>10. «  [En 1979] Pour qui se fiait à l’apparence des choses, l’Union soviétique semblait voler de triomphe en triomphe »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Amin Maalouf<br /> </span>
@@ -197,7 +197,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Et les dirigeants soviétiques vont entrainer leur pays dans une guerre couteuse et désastreuse.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11849">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11849/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>11. « La guerre sino-vietnamienne »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Guerre du 17 février au 16 mars 1979<br /> </span>
@@ -219,7 +219,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Du point de vue militaire, ce n&rsquo;est pas vraiment un succès pour Pékin, mais Deng Xiaoping l&rsquo;utilisera pour asseoir davantage son pouvoir.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11864">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11864/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>12. « Rien de ce qui s’est passé en Europe de l’Est n’aurait été possible sans la présence de ce pape »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Mikhaïl Gorbatchev<br /> </span>
@@ -239,7 +239,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Pour ce combat, il n’hésitera pas à s’appuyer sur des personnes peu recommandables et l’institution financière du Vatican (L’IOR) qui sous l’égide du sulfureux Monseigneur Marcinkus s’adonne à toutes les malversations et recycle l’argent sale de la mafia. Cet aspect du combat n’est pas développé dans ce mot du jour. Je traiterai probablement de ce sujet une autre fois en lien avec la mort mystérieuse du Pape Jean-Paul Ier.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11873">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11873/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>13. « Nous avons maintenant l’occasion de donner à l’URSS sa guerre du Vietnam. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Zbigniew Brzezinski<br /> </span>
@@ -261,4 +261,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Attentats qui n’auraient sans doute pas été possible si l’Union soviétique n’avait pas envahi l’afghanistan et les américains n’avait pas financé et armé des fanatiques.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=11892">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/11892/">Lire l&rsquo;article</a>

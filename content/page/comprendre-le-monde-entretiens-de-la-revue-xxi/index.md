@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>En pleine période de confinement du COVID-19, alors que toute l&rsquo;actualité et le bruit médiatique étaient concentrés sur la pandémie, j&rsquo;ai souhaité faire un pas de côté et parler résolument d&rsquo;autre chose.<br /> </em></span>
 
-<img loading="lazy" decoding="async" class="wp-image-8757 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2020/05/050320_1752_Lundi4mai203.jpg" alt="" width="261" height="341" srcset="https://lemotdujour.fr/wp-content/uploads/2020/05/050320_1752_Lundi4mai203.jpg 479w, https://lemotdujour.fr/wp-content/uploads/2020/05/050320_1752_Lundi4mai203-230x300.jpg 230w" sizes="auto, (max-width: 261px) 100vw, 261px" /> 
+<img loading="lazy" decoding="async" class="wp-image-8757 alignleft" src="/wp-content/uploads/2020/05/050320_1752_Lundi4mai203.jpg" alt="" width="261" height="341" sizes="auto, (max-width: 261px) 100vw, 261px" /> 
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Pour ce faire j&rsquo;ai repris un livre qui nous avait été offert il y a déjà longtemps, probablement en 2017. </em></span><span style="color: purple; font-family: Arial; font-size: 12pt;"><em>En effet, un jour une amie, lectrice du mot du jour, est venue à la maison avec ce livre.<br /> </em></span>
 
@@ -41,7 +41,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Le choix est celui de la qualité et du refus de la publicité.<br /> </span>
 
-<a style="color: #0000ff;" title="lundi 04/05/2020" href="https://lemotdujour.fr/?p=8758">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="lundi 04/05/2020" href="/post/8758/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>02. «J’ai compris que je suis le monde. Tout ce que je vois, tout ce que je vis, tout ce que je mange, fait partie de mon univers, de mes créations, c’est réel et infini.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Xu Ge Fei<br /> </span>
@@ -61,7 +61,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">C&rsquo;est à la fois un conte de fée et une histoire pleine d&#8217;embuches et d&rsquo;épreuves.<br /> </span>
 
-<a style="color: #0000ff;" title="mardi 05/05/2020" href="https://lemotdujour.fr/?p=8778">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="mardi 05/05/2020" href="/post/8778/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>03. «Face à un islam fondamentaliste, il s’agit de proposer un islam moderne, actif, réactif, une religion compatible avec le vivre ensemble et le temps présent, mais aussi avec les raffinements exquis qu’elle a inventés»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Malek Chebel<br /> </span>
@@ -81,7 +81,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Sa voix douce et son érudition se trouvaient assez souvent sur les plateaux de télévision. Moi je l’ai surtout écouté sur les ondes de France Culture.<br /> </span>
 
-<a style="color: #0000ff;" title="mercredi 06/05/2020" href="https://lemotdujour.fr/?p=8804">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="mercredi 06/05/2020" href="/post/8804/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>04. «Rendre lisible un texte du VIIe siècle à un lecteur du XXIe siècle en usant d’une langue simple.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Quête poursuivie par Malek Chebel dans sa traduction du Coran<br /> </span>
@@ -101,7 +101,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il me fallait donc disposer d’une traduction en laquelle je pouvais avoir confiance. Confiance que j’accorde à Malek Chebel.<br /> </span>
 
-<a style="color: #0000ff;" title="jeudi 07/05/2020" href="https://lemotdujour.fr/?p=8813">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="jeudi 07/05/2020" href="/post/8813/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>05. «J’ai vu un chef d’État affirmer ses idées et agir en conséquence»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Curtis Roosevelt à propos de l’action de son grand-père Franklin D. Roosevelt<br /> </span>
@@ -119,7 +119,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L’entretien date de 2013, depuis Curtis Roosevelt est décédé, le 26 septembre 2016 à Saint-Bonnet-du-Gard.<br /> </span>
 
-<a style="color: #0000ff;" title="mardi 12/05/2020" href="https://lemotdujour.fr/?p=8871">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="mardi 12/05/2020" href="/post/8871/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>06. «Rendre leur Histoire aux femmes»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Michelle Perrot<br /> </span>
@@ -139,7 +139,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Michelle Perrot est née à Paris le 18 mai 1928. Elle a d’abord travaillé sur l’histoire du mouvement ouvrier, et sur le système carcéral français avant de devenir vraiment l’historienne de l’Histoire des femmes.<br /> </span>
 
-<a style="color: #0000ff;" title="mercredi 13/05/2020" href="https://lemotdujour.fr/?p=8882">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="mercredi 13/05/2020" href="/post/8882/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>07. «Il est plus facile d’unifier des économies et des administrations que d’unifier des mémoires»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Bronislaw Geremek parlant des mémoires différentes de l’Europe de l’Ouest et de l’Est<br /> </span>
@@ -155,7 +155,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">La journaliste a introduit son article par la phrase suivante : </span><span style="color: #777777; font-family: Arial;">« Il a consacré sa vie à chercher des raisons de vivre ensemble ».<br /> </span>
 
-<a style="color: #0000ff;" title="jeudi 14/05/2020" href="https://lemotdujour.fr/?p=8900">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="jeudi 14/05/2020" href="/post/8900/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>08. «Et je me suis lancée dans le combat contre le brevetage du vivant que je juge illégal, non scientifique, immoral et injuste.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Vandana Shiva<br /> </span>
@@ -175,7 +175,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Elle s&rsquo;oppose à la politique d’expansion des multinationales agro-alimentaires et au génie génétique. Elle lutte contre le brevetage du vivant et la bio-piraterie.<br /> </span>
 
-<a style="color: #0000ff;" title="lundi 18/05/2020" href="https://lemotdujour.fr/?p=8913">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="lundi 18/05/2020" href="/post/8913/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>09. «Je veux redonner la parole aux gens, moi qui ai tellement capté leur image.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Raymond Depardon<br /> </span>
@@ -195,7 +195,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Selon lui, c’est son origine paysanne qui va malgré sa timidité lui permettre, dans ses premiers années, de devenir un photographe téméraire et opiniâtre.<br /> </span>
 
-<a style="color: #0000ff;" title="mercredi 27/05/2020" href="https://lemotdujour.fr/?p=8961">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="mercredi 27/05/2020" href="/post/8961/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>10. «Pour ma part, j’en suis sûr : le sens de la solidarité nous vient du fond des âges, il est profondément ancré dans notre nature.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Frans de Waal<br /> </span>
@@ -215,7 +215,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">« L’homme descend du singe ? alors observons les singes pour mieux comprendre l’homme ! Tel est le point de départ du travail considérable abattu par Frans de Waal.<br /> </span>
 
-<a style="color: #0000ff;" title="jeudi 28/05/2020" href="https://lemotdujour.fr/?p=8970">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="jeudi 28/05/2020" href="/post/8970/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>11. «Quelle est votre richesse ? Qui êtes-vous que je ne suis pas ? est la seule question qui vaille»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Tobie Nathan<br /> </span>
@@ -235,7 +235,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L’entretien de la revue XXI consacrée à Tobie Nathan était un hors-série « Les déracinés » paru en février 2016. Ce numéro explicitait son titre par cette définition : « Ils vivent ailleurs que là où ils sont nés ».<br /> </span>
 
-<a style="color: #0000ff;" title="vendredi 29/05/2020" href="https://lemotdujour.fr/?p=8985">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="vendredi 29/05/2020" href="/post/8985/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>12. «La première attitude indispensable est d’être capable de se mettre à la place de l’autre. Si je peux me mettre à la place de l’autre, alors nous pouvons réfléchir ensemble.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Amin Maalouf<br /> </span>
@@ -255,4 +255,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">L’entretien a été publié dans le N°26 de la revue XXI paru au printemps 2014. Il avait pour titre « Se mettre à la place de l’autre »<br /> </span>
 
-<a style="color: #0000ff;" title="vendredi 05/06/2020" href="https://lemotdujour.fr/?p=9099">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" title="vendredi 05/06/2020" href="/post/9099/">Lire l&rsquo;article</a>

@@ -7,7 +7,7 @@ accelerate_page_layout:
   - default_layout
 
 ---
-<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-medium wp-image-10506 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2020/12/Beethoven-Par-Bourdelle-1-257x300.jpg" alt="" width="257" height="300" srcset="https://lemotdujour.fr/wp-content/uploads/2020/12/Beethoven-Par-Bourdelle-1-257x300.jpg 257w, https://lemotdujour.fr/wp-content/uploads/2020/12/Beethoven-Par-Bourdelle-1.jpg 731w" sizes="auto, (max-width: 257px) 100vw, 257px" />Ludwig van Beethoven a été baptisé le 17 décembre 1770 à Bonn. </em></span>
+<span style="color: purple; font-family: Arial; font-size: 12pt;"><em><img loading="lazy" decoding="async" class="size-medium wp-image-10506 alignleft" src="/wp-content/uploads/2020/12/Beethoven-Par-Bourdelle-1.jpg" alt="" width="257" height="300" sizes="auto, (max-width: 257px) 100vw, 257px" />Ludwig van Beethoven a été baptisé le 17 décembre 1770 à Bonn. </em></span>
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em>Il est né à cette date ou avant cette date. Le jour précis de son arrivée dans la communauté des vivants n&rsquo;est pas connu.</em></span>
 
@@ -33,7 +33,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Au XIXème siècle, à quelques exceptions près, beaucoup n&rsquo;ont pas compris la musique de Beethoven de la dernière période, celle de l&rsquo;avenir.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10375">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10375/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>2. « Beethoven est le premier [musicien] à avoir mis l’homme au centre. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">François-Frédéric Guy<br /> </span>
@@ -51,7 +51,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Je tiens vraiment à le dire, c’est le premier qui ose. Avant on parle de la divinité, on parle de Dieu, on parle des grandes choses, mais Beethoven parle de l’homme. Il parle aussi de ses turpitudes, ses vicissitudes, ses désespoirs, ses petitesses, autant que de sa mystique, de sa grandeur, de ses aspirations au divin. A surpasser sa condition pour arriver à un idéal humain. Et cela c’est vraiment la définition de l’œuvre de Beethoven. »<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10383">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10383/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>3. « La trahison du biographe de Beethoven. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">La biographie d’Anton Schindler a fait longtemps autorité jusqu’à ce que l’on constate qu’il y avait des falsifications.<br /> </span>
@@ -69,7 +69,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Les musicologues, fort de cette compréhension, ont retravaillé les sources primaires pour décrire un Beethoven plus authentique.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10402">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10402/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>4. « Ce grand père [Ludwig l’ancien] va lui permettre de se forger le mythe de la grandeur et du grand individu qui n’arrêtera pas de le porter et de le pousser. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Bernard Fournier<br /> </span>
@@ -87,7 +87,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">C’est son grand père Ludwig l’ancien qui a joué un rôle essentiel dans l’imaginaire de Beethoven.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10409">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10409/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>5. «Recevez des mains de Haydn l’esprit de Mozart !»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Parole du Comte von Waldstein à Beethoven lors de son départ pour Vienne prendre des cours avec Haydn<br /> </span>
@@ -109,7 +109,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Haydn fut son premier maître, mais il en eut quelques autres.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10440">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10440/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>6. « Beethoven, Bonaparte, Napoléon, des œuvres, des dédicataires et des mécènes »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Un récit simple qui cache une grande complexité<br /> </span>
@@ -127,7 +127,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans ce contexte la relation entre Beethoven et Napoléon qui ne se sont jamais rencontrés a été complexe et contrariée.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10455">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10455/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>7. « C’est l’art et seulement lui, qui m’a retenu, ah ! il me semblait impossible de quitter le monde avant d’avoir fait naître tout ce pour quoi je me sentais disposé, et c’est ainsi que j’ai mené cette vie misérable »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Ludwig van Beethoven, dans le « Testament d’Heiligenstadt » du 6 octobre 1802<br /> </span>
@@ -151,7 +151,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Ce fut aussi l&rsquo;objet principal du testament d&rsquo;Heiligenstadt qu&rsquo;il écrira en 1802 mais qui ne fut découvert qu&rsquo;à sa mort en 1827.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10465">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10465/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>8. « Ce sourd entendait l’infini »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Victor Hugo évoquant Ludwig van Beethoven<br /> </span>
@@ -165,7 +165,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il lui a consacré un poème magnifique.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10476">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10476/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>9. « Beethoven et ses trois styles »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Wilhelm von Lenz, livre de 1852 réédité en 1919<br /> </span>
@@ -181,7 +181,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">C&rsquo;est en m&rsquo;appuyant sur cette typologie que j&rsquo;ai essayé d&#8217;embrasser l&rsquo;ensemble de l&rsquo;œuvre de Beethoven.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10488">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10488/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>10. « Ce n’est pas pour vous, c’est pour les temps à venir. »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Ludwig van Beethoven<br /> </span>
@@ -201,7 +201,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Mais il continua son chemin et savait qu&rsquo;il écrivait la musique de l&rsquo;avenir.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10504">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10504/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>11. « Après cela, que reste-t-il à écrire ? »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Franz Schubert à propos du 14ème quatuor à cordes de Beethoven<br /> </span>
@@ -217,7 +217,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Il voulut encore l&rsquo;entendre dans les dernière heures de sa courte vie.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10544">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10544/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>12. « Beethoven victime de la “cancel culture aux Etats-Unis »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Emmanuel Dupuy dans « Diapason »<br /> </span>
@@ -233,7 +233,7 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">Dans leur vision cette symphonie a été érigée par <strong>«</strong>les personnes au pouvoir, en particulier les hommes blancs et riches »  comme le <strong>«</strong>symbole de leur supériorité et de leur importance».<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10562">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10562/">Lire l&rsquo;article</a>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong>13. « Une expérience spirituelle unique où les grandes sonates pour piano rencontrent les ragas indiens dans une fraternité universelle, celle que défendait sans cesse Beethoven »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;">Shani Diluka<br /> </span>
@@ -251,4 +251,4 @@ accelerate_page_layout:
 
 <span style="color: #777777; font-family: Arial;">C’est une part supplémentaire de son universalisme qui nous est révélée.<br /> </span>
 
-<a style="color: #0000ff;" href="https://lemotdujour.fr/?p=10525">Lire l&rsquo;article</a>
+<a style="color: #0000ff;" href="/post/10525/">Lire l&rsquo;article</a>

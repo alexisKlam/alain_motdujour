@@ -27,7 +27,7 @@ Les forces de l’ordre n’ont pas su maîtriser ces actes de violence et dans 
 
 « La nuit des chasseurs » est le titre d’un article où la journaliste du Monde, Annick Cojean, donne la parole à des victimes.
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lemotdujour.fr/?p=1586">Lire l’article</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/post/1586/">Lire l’article</a></span>
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Récemment, j’ai lu « Une vie» de Simone Veil qui raconte la vie de cette gr
 
 C’est un livre passionnant. Un extrait m’a particulièrement marqué, …
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lemotdujour.fr/?p=1588">Lire l’article</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/post/1588/">Lire l’article</a></span>
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Combien de combats et de prise de conscience a-t-il fallu pour arriver à cette 
 
 Et encore, même dans nos pays, cette pensée délétère, « elle a dû le chercher un peu ! » n’est jamais très loin. Elle est même exprimée par des femmes comme récemment par la maire de Cologne après les événements que nous savons.
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lemotdujour.fr/?p=1590">Lire l’article</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/post/1590/">Lire l’article</a></span>
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Parler de la violence contre les femmes dans l’espace public, ramène forcéme
 
 Je commencerai d’abord par une expérience personnelle de la cour de récréation de la primaire que je n’ai décrypté que bien plus tard quand j’ai commencé à être sensible à la remise en cause de la société patriarcale.
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lemotdujour.fr/?p=1592">Lire l’article</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/post/1592/">Lire l’article</a></span>
 
 &nbsp;
 
@@ -101,4 +101,4 @@ Les évènements de Cologne pourraient conduire à une régression si la peur l�
 
 Une autre régression à l’égard des femmes menace la France en raison du communautarisme qui s’est développé dans des populations issues de l’immigration de population venant de pays et de culture qui sont encore à un stade plus archaïque des relations femme/homme.
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lemotdujour.fr/?p=1594">Lire l’article</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/post/1594/">Lire l’article</a></span>

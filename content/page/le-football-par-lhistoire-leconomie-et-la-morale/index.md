@@ -9,7 +9,7 @@ accelerate_page_layout:
 ---
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Avant la coupe du monde masculine de football de 2018, j’ai entrepris de réaliser une série de 11 mots du jour sur le football.<br /> </em></span>
 
-<img loading="lazy" decoding="async" class="wp-image-6852 alignleft" src="https://lemotdujour.fr/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay.jpg" alt="" width="469" height="266" srcset="https://lemotdujour.fr/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay.jpg 1144w, https://lemotdujour.fr/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay-300x170.jpg 300w, https://lemotdujour.fr/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay-768x435.jpg 768w, https://lemotdujour.fr/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay-1024x580.jpg 1024w" sizes="auto, (max-width: 469px) 100vw, 469px" /> 
+<img loading="lazy" decoding="async" class="wp-image-6852 alignleft" src="/wp-content/uploads/2019/06/Hugo-Lloris-Uruguay.jpg" alt="" width="469" height="266" sizes="auto, (max-width: 469px) 100vw, 469px" /> 
 
 <span style="color: purple; font-family: Arial; font-size: 12pt;"><em> J’ai commencé par la citation d’Albert Camus souvent reprise, pour ensuite parler de philosophie, de souvenirs personnels, d’Histoire, d’économie et aussi de morale, car c’est bien de morale dont il est question quand on voit ce le football est devenu.<br /> </em></span>
 
@@ -44,7 +44,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Je vais tenter pourtant de le faire, d’abord pour apprendre moi-même, ensuite pour essayer de mieux comprendre les aspects contradictoires : éclairer l’ombre par la lumière et percevoir l’ombre malgré la lumière.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 12 juin 2018" href="https://lemotdujour.fr/?p=4998">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 12 juin 2018" href="/post/4998/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 2. « La France est l’équipe la plus chère de celles qui participent à la coupe du monde 2018 »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Constat économique primaire<br /> </span>
@@ -73,7 +73,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">C’est une belle leçon morale au sens d’Albert Camus.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mercredi 13 juin 2018	" href="https://lemotdujour.fr/?p=5024">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mercredi 13 juin 2018	" href="/post/5024/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 3. «Un vide stupéfiant : l’Histoire officielle ignore le football.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Eduardo Galeano dans « Football, ombre et lumière »<br /> </span>
@@ -91,7 +91,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Dès qu’on creuse un peu le sujet du football d’une manière analytique, de son rôle dans la société, de sa géopolitique on tombe immanquablement sur la citation de l’ouvrage qu’il a écrit « Football, ombre et lumière », paru en espagnol en 1995 avant d’être traduit trois ans plus tard en français.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	jeudi 14 juin 2018	" href="https://lemotdujour.fr/?p=5004">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	jeudi 14 juin 2018	" href="/post/5004/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 4. «Le football n’est pas une question de vie ou de mort, c’est quelque chose de bien plus important que cela.»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Bill Shankly, (1913-1981) entraîneur de Liverpool de 1959 à 1974<br /> </span>
@@ -113,7 +113,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Un article de Slate du 31 août 2013 fait l’histoire de cette phrase […]<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	vendredi 15 juin 2018	" href="https://lemotdujour.fr/?p=5013">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	vendredi 15 juin 2018	" href="/post/5013/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 5. « Le Tsu chu chinois et le Kemari japonais »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Ancêtres du football<br /> </span>
@@ -131,7 +131,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">[…] Mais Philippe Villemus cite comme premier jeu de balle au pied un jeu chinois, dans l’Empire du Milieu appelé : « Le Tsu Chu » (parfois on trouve l’orthographe suivant « cuju »).<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	lundi 18 juin 2018	" href="https://lemotdujour.fr/?p=5039">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	lundi 18 juin 2018	" href="/post/5039/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 6. « L’Episkyros grec et l’Haspartum romain»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Ancêtres du football<br /> </span>
@@ -149,7 +149,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">En visitant le siège de la FIFA, à Zurich, on peut admirer, dans la salle d’accueil, une sculpture offerte par la Grèce à l’occasion de sa qualification à la phase finale de la Coupe du monde 1994 aux États-Unis. Il s’agit d’une reproduction d’un bas-relief en marbre de 450 avant J.-C., dont l’original est au musée national d’archéologie d’Athènes. Il fut trouvé au Pirée, en 1836. La stèle représente un athlète nu jonglant avec une balle sur sa cuisse, et se privant volontairement de ses mains devant un enfant. Il lui enseigne sans doute cette technique de jonglage avec les membres inférieurs. […]<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 19 juin 2018	" href="https://lemotdujour.fr/?p=5047">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 19 juin 2018	" href="/post/5047/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 7. «Le mob football anglais et la soule française»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Ancêtres du football<br /> </span>
@@ -170,7 +170,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">[…] </span> <span style="color: #777777; font-family: Arial;">Tous ces jeux de ballon qu’on présente comme les ancêtres du football, dans des ouvrages consacrées au football, sont autant les ancêtres du rugby que du football et ressemble davantage à ce que j’appellerais de la bagarre.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mercredi 20 juin 2018	" href="https://lemotdujour.fr/?p=5055">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mercredi 20 juin 2018	" href="/post/5055/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 8. « Le calcio florentin »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Autre ancêtre du football<br /> </span>
@@ -188,7 +188,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Le nom complet est : « Calcio Storico Fiorentino ». Il a été inventé au moyen-âge et s’est épanoui à la Renaissance essentiellement dans la ville de Florence.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	jeudi 21 juin 2018	" href="https://lemotdujour.fr/?p=5070">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	jeudi 21 juin 2018	" href="/post/5070/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 9. « Comment ils nous ont volé le football »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> François Ruffin et Antoine Dumini<br /> </span>
@@ -208,7 +208,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Ce petit livre est passionnant et je vous en conseille vivement la lecture.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	vendredi 22 juin 2018	" href="https://lemotdujour.fr/?p=5081">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	vendredi 22 juin 2018	" href="/post/5081/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 10. «Quel sport est plus laid, plus balourd et moins gracieux que le football ?»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Pierre Desproges<br /> </span>
@@ -230,7 +230,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Mais il existe des personnes qui détestent ce sport, et je pense qu’il faut leur donner la parole aussi.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	lundi 25 juin 2018	" href="https://lemotdujour.fr/?p=5087">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	lundi 25 juin 2018	" href="/post/5087/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 11. «Peut-on encore aimer le football ?»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Robert Redeker<br /> </span>
@@ -252,4 +252,4 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">[…] Robert Redeker, écrivain et agrégé de philosophie vient de faire paraître un livre « Peut-on encore aimer le football ?». C’est ce titre que j’ai choisi comme exergue à ce dernier mot du jour de la série.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 26 juin 2018	" href="https://lemotdujour.fr/?p=5094">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title="	mardi 26 juin 2018	" href="/post/5094/">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>

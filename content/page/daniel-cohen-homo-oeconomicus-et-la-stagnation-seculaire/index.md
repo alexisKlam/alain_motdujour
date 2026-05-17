@@ -7,7 +7,7 @@ accelerate_page_layout:
   - default_layout
 
 ---
-<img loading="lazy" decoding="async" class="alignleft" src="https://lemotdujour.fr/wp-content/uploads/2017/07/070917_1858_BilletpourP1.jpg" alt="" width="194" height="301" align="left" /><span style="color: #800080;"><em>La première série de mots que j&rsquo;ai écrite, à la rentrée de septembre 2015, fut celle consacrée à l&rsquo;économiste Daniel Cohen qui avait été invité de l&rsquo;émission «<a href="http://www.franceculture.fr/emission-l-esprit-public-la-stagnation-seculaire-avec-daniel-cohen-2015-07-26"><span style="color: #0000ff;">L&rsquo;esprit Public du 26/07/2015</span>»</a><br /> </em></span>
+<img loading="lazy" decoding="async" class="alignleft" src="/wp-content/uploads/2017/07/070917_1858_BilletpourP1.jpg" alt="" width="194" height="301" align="left" /><span style="color: #800080;"><em>La première série de mots que j&rsquo;ai écrite, à la rentrée de septembre 2015, fut celle consacrée à l&rsquo;économiste Daniel Cohen qui avait été invité de l&rsquo;émission «<a href="http://www.franceculture.fr/emission-l-esprit-public-la-stagnation-seculaire-avec-daniel-cohen-2015-07-26"><span style="color: #0000ff;">L&rsquo;esprit Public du 26/07/2015</span>»</a><br /> </em></span>
 
 <span style="color: #800080;"><em>Philippe Meyer avait introduit ainsi cette émission :<br /> </em></span>
 
@@ -128,10 +128,10 @@ Pour Daniel Cohen plus que la financiarisation de l&rsquo;Economie qui a début�
 [<span style="color: #0000ff;">Lire l&rsquo;article</span>][8]
 
  [1]: http://www.franceculture.fr/emission-l-esprit-public-la-stagnation-seculaire-avec-daniel-cohen-2015-07-26
- [2]: https://lemotdujour.fr/?p=1214
+ [2]: /post/1214/
  [3]: https://fr.wikipedia.org/wiki/Gordon_Earle_Moore
  [4]: https://fr.wikipedia.org/wiki/Loi_de_Moore
- [5]: https://lemotdujour.fr/?p=1216 "Mardi 1er Septembre 2015"
- [6]: https://lemotdujour.fr/?p=1218 "Mercredi 2 Septembre 2015"
- [7]: https://lemotdujour.fr/?p=1220 "Jeudi 3 Septembre 2015"
- [8]: https://lemotdujour.fr/?p=1222 "Vendredi 4 Septembre 2015"
+ [5]: /post/1216/ "Mardi 1er Septembre 2015"
+ [6]: /post/1218/ "Mercredi 2 Septembre 2015"
+ [7]: /post/1220/ "Jeudi 3 Septembre 2015"
+ [8]: /post/1222/ "Vendredi 4 Septembre 2015"

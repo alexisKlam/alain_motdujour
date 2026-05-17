@@ -65,7 +65,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">La guerre de 14, cela a été la découverte de la mort de masse.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 9 novembre 2018 " href="https://lemotdujour.fr/?p=5661&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 9 novembre 2018 " href="/post/5661/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 2. « La première guerre mondiale ne s’est pas terminée le 11 novembre 1918 »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Retour sur la vérité historique<br /> </span>
@@ -91,7 +91,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">D’autres affrontements prennent bientôt ou ont déjà pris le relais. Entre 1917 et 1923 on ne recense pas moins de 27 conflits violents en Europe<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 12 novembre 2018 " href="https://lemotdujour.fr/?p=5679&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 12 novembre 2018 " href="/post/5679/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 3. «Les puissances centrales perdent la guerre parce que le temps joue contre elle »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Arndt Weinrich, chercheur à l’Institut historique allemand, spécialiste de la Première Guerre mondiale<br /> </span>
@@ -111,7 +111,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Un rapide survol sur quelques chiffres clés permet de comprendre à quel point l’Allemagne, et cela est encore plus vrai pour son allié le plus proche, l’Autriche-Hongrie, était particulièrement mal inspirée de poursuivre une politique d’escalade en juillet 1914 : l’éclatement de la guerre met aux prises 118 millions d’Allemands et d’Autrichiens-Hongrois avec plus de 260 millions de Français, Russes, Britanniques et Serbes.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 13 novembre 2018 " href="https://lemotdujour.fr/?p=5689&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 13 novembre 2018 " href="/post/5689/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 4. « Ne doutez jamais toutes les deux de mon honneur et de mon courage »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Dernière lettre d’un soldat français en 1917 à son épouse et à sa fille<br /> </span>
@@ -127,7 +127,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Quelquefois les faits et le témoignage sont si forts qu’ils sont leçon de vie et d’Histoire.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 14 novembre 2018 " href="https://lemotdujour.fr/?p=5700&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 14 novembre 2018 " href="/post/5700/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 5. « La Pologne fête les 100 ans de sa renaissance »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Une des conséquences de la première guerre mondiale<br /> </span>
@@ -146,7 +146,7 @@ accelerate_page_layout:
   * <span style="color: #777777; font-family: Arial;">A l’Ouest, il y a l’Allemagne, avant 1870 la Prusse<br /> </span>
   *  <span style="color: #777777; font-family: Arial;">A l’Est, il y a la Russie,<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" Mot du jour jeudi 15 novembre 2018 " href="https://lemotdujour.fr/?p=5713&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" Mot du jour jeudi 15 novembre 2018 " href="/post/5713/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 6. « La dislocation de l’Autriche-Hongrie »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Une des conséquences majeures de la défaite des empires centraux.<br /> </span>
@@ -170,7 +170,7 @@ accelerate_page_layout:
   *  <span style="color: #777777; font-family: Arial;">La Tchécoslovaquie qui regroupait les nations tchèques et slovaques<br /> </span>
   *  <span style="color: #777777; font-family: Arial;">La Yougoslavie qui regroupait les nations serbes, croates, bosniaques, slovènes.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 16 novembre 2018 " href="https://lemotdujour.fr/?p=5724&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 16 novembre 2018 " href="/post/5724/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 7. «La commission King Crane»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Une commission d’enquête américaine au Moyen-Orient à la fin de la guerre 14-18 et après l’effondrement de l’empire Ottoman<br /> </span>
@@ -194,7 +194,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Le fait que les Etats-Unis se soient retirés des instances internationales par le refus du Sénat américain de ratifier le Traité de Versailles rendait, en toute hypothèse, difficile de donner une suite à cette démarche. Les seuls maîtres du terrain restant les britanniques et les français.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 19 novembre 2018 " href="https://lemotdujour.fr/?p=5739&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 19 novembre 2018 " href="/post/5739/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 8. « Du traité de Sèvres en 1920 au Traité de Lausanne en 1923»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> De la défaite de l’empire ottoman à la victoire turque grâce à Mustafa Kemal<br /> </span>
@@ -223,7 +223,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Ce traité sera le traité de Lausanne (24 juillet 1923).<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 20 novembre 2018 " href="https://lemotdujour.fr/?p=5746&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 20 novembre 2018 " href="/post/5746/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 9. « Images interdites de la grande guerre »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Expositions et livre montrant et évoquant des photos de la guerre 14-18 qui avaient été censurées à l’époque<br /> </span>
@@ -249,7 +249,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">La section photographique de l’armée (SPA) est créée en 1915 pour fabriquer jusqu’en 1919 l’image officielle de la guerre en France.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 21 novembre 2018 " href="https://lemotdujour.fr/?p=5760&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 21 novembre 2018 " href="/post/5760/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 10.« Camps de concentration français dans la 1e guerre mondiale »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Jean-Claude Farcy<br /> </span>
@@ -265,7 +265,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Mais, il semble que l’Historien qui a le plus complétement étudié la réalité des camps d’internement soit Jean-Claude Farcy. Le livre qui est le fruit de ses recherches a été publié en 1995.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 22 novembre 2018 " href="https://lemotdujour.fr/?p=5783&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 22 novembre 2018 " href="/post/5783/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 11.« Le tueur que l’on n’attendait pas »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Claude Quétel, Revue l’Histoire, Juillet/Août 2018<br /> </span>
@@ -281,7 +281,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">On l’a appelé la grippe espagnole.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 23 novembre 2018 " href="https://lemotdujour.fr/?p=5793&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 23 novembre 2018 " href="/post/5793/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 12.« Le moment Wilson »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Erez Manela<br /> </span>
@@ -305,7 +305,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Il avait été très marqué par son éducation religieuse, à tel point qu’aux yeux de Clemenceau il se prenait pour le Christ en personne.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 26 novembre 2018 " href="https://lemotdujour.fr/?p=5803&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" lundi 26 novembre 2018 " href="/post/5803/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 13.« Les espoirs déçus des pays colonisés après 1918 »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Comment les peuples colonisés furent galvanisés par le wilsonisme et puis déçus<br /> </span>
@@ -324,7 +324,7 @@ accelerate_page_layout:
   *  <span style="color: #777777; font-family: Arial;">Recueillir les fruits de leur participation à l’effort de guerre de la puissance coloniale ;<br /> </span>
   * <span style="color: #777777; font-family: Arial;">Répondre au Wilsonisme et à l’espoir qu’il avait suscité.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 27 novembre 2018 " href="https://lemotdujour.fr/?p=5812&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mardi 27 novembre 2018 " href="/post/5812/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 14.« Et la proposition japonaise d’inscrire dans la charte de la SDN l’égalité des races et des nationalités fut repoussée ! »<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Une autre péripétie oubliée de l’après-guerre 14-18<br /> </span>
@@ -340,7 +340,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Le texte est critiqué, notamment par les Britanniques, mais adopté par 11 voix sur 17. Le président Wilson, qui avait voté pour, proclame néanmoins, sous la pression, que l’unanimité étant nécessaire pour l’adoption de ce principe, ce dernier est donc rejeté.<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 28 novembre 2018 " href="https://lemotdujour.fr/?p=5821&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" mercredi 28 novembre 2018 " href="/post/5821/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 15.«Il y avait partout des réfugiés. Comme si le monde entier devait se déplacer ou attendait de le faire»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> Homer Folks, le directeur du bureau des affaires civiles de la Croix Rouge (1)<br /> </span>
@@ -358,7 +358,7 @@ accelerate_page_layout:
 
  <span style="color: #777777; font-family: Arial;">Il est créé aussi un « passeport » pour les apatrides et nous apprenons à connaître le Norvégien Fridtjof Nansen :<br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 29 novembre 2018 " href="https://lemotdujour.fr/?p=5826&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" jeudi 29 novembre 2018 " href="/post/5826/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
 
 <p style="margin-left: 14pt;">
   <span style="color: navy; font-family: Verdana; font-size: 12pt;"><strong> 16.«Le Musicien de la Guerre»<br /> </strong></span><span style="color: maroon; font-family: Arial; font-size: 12pt;"> René Beziau<br /> </span>
@@ -382,4 +382,4 @@ _ <span style="color: #777777; font-family: Arial;">Le Musicien de la Guerre<br 
 
 <span style="color: #777777; font-family: Arial;"><em> L’assaut est terminé. Vite au travail. J’approche. </em><br /> <em>Voici mes instruments : une pelle ! Une pioche ! </em><br /> <em>Un brancard ! Musicien, brancardier, fossoyeur ! </em><br /> <em>Du funèbre charnier, c’est moi le nettoyeur</em><br /> </span>
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 30 novembre 2018 " href="https://lemotdujour.fr/?p=5834&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" title=" vendredi 30 novembre 2018 " href="/post/5834/&quot;">Lire l&rsquo;article</a></span><span style="font-family: Arial;"><br /> </span>

@@ -8,7 +8,7 @@ accelerate_page_layout:
 
 ---
 <p style="padding-left: 30px;">
-  <img loading="lazy" decoding="async" class="" src="https://lemotdujour.fr/wp-content/uploads/2017/07/Debray-218x300.png" alt="" width="233" height="344" align="left" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Que nous arrive-t-il ?<br /> </em></span>
+  <img loading="lazy" decoding="async" class="" src="/wp-content/uploads/2017/07/Debray.png" alt="" width="233" height="344" align="left" /><span style="color: purple; font-family: Arial; font-size: 12pt;"><em> Que nous arrive-t-il ?<br /> </em></span>
 </p>
 
 <p style="padding-left: 60px;">
@@ -193,9 +193,9 @@ _
 
 [<span style="color: #0000ff;">Lire l&rsquo;article</span>][6]
 
- [1]: https://lemotdujour.fr/?p=1419 "Lundi 19 septembre 2016"
- [2]: https://lemotdujour.fr/?p=1421 "Mardi 20 septembre 2016"
- [3]: https://lemotdujour.fr/?p=1423 "Mercredi 21 septembre 2016"
- [4]: https://lemotdujour.fr/?p=1425 "Jeudi 22 septembre 2016"
- [5]: https://lemotdujour.fr/?p=1427 "Vendredi 23 septembre 2016"
- [6]: https://lemotdujour.fr/?p=1429 "Lundi 26 septembre 2016"
+ [1]: /post/1419/ "Lundi 19 septembre 2016"
+ [2]: /post/1421/ "Mardi 20 septembre 2016"
+ [3]: /post/1423/ "Mercredi 21 septembre 2016"
+ [4]: /post/1425/ "Jeudi 22 septembre 2016"
+ [5]: /post/1427/ "Vendredi 23 septembre 2016"
+ [6]: /post/1429/ "Lundi 26 septembre 2016"

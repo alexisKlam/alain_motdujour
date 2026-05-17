@@ -8,7 +8,7 @@ accelerate_page_layout:
 
 ---
 <p style="padding-left: 30px;">
-  <img loading="lazy" decoding="async" class="" src="https://lemotdujour.fr/wp-content/uploads/2017/07/072617_0936_FlorenceAub1-213x300.jpg" alt="" width="233" height="344" align="left" /> <span style="color: #800080;"><em>C&rsquo;est en écoutant Florence Aubenas dans l&rsquo;émission </em></span><em><span style="color: #800080;"><span style="color: #0000ff;"><a href="http://www.franceculture.fr/emission-repliques-raconter-la-france-2015-09-12"><span style="color: #0000ff;"><Répliques></span></a></span> </span></em><em><span style="color: #800080;">que j&rsquo;ai eu envie de lire son livre «En France».</span></em>
+  <img loading="lazy" decoding="async" class="" src="/wp-content/uploads/2017/07/072617_0936_FlorenceAub1.jpg" alt="" width="233" height="344" align="left" /> <span style="color: #800080;"><em>C&rsquo;est en écoutant Florence Aubenas dans l&rsquo;émission </em></span><em><span style="color: #800080;"><span style="color: #0000ff;"><a href="http://www.franceculture.fr/emission-repliques-raconter-la-france-2015-09-12"><span style="color: #0000ff;"><Répliques></span></a></span> </span></em><em><span style="color: #800080;">que j&rsquo;ai eu envie de lire son livre «En France».</span></em>
 </p>
 
 _<span style="color: #800080;">Comme beaucoup, j&rsquo;ai appris l&rsquo;existence de Florence Aubenas lorsqu&rsquo;elle a été kidnappée et retenue en otage en Irak en 2005. Depuis j&rsquo;ai appris à connaître la remarquable journaliste qu&rsquo;elle est. Comme le préconisait le journaliste suisse, Serge Michel, créateur du Bondy Blog, elle va sur le terrain, en immersion, pour réaliser ses reportages.</span>_
@@ -118,8 +118,8 @@ Il est convenu que les copines attendent devant la résidence, pendant que Rim s
 [<span style="color: #0000ff;">Lire l&rsquo;article</span>][6]
 
  [1]: http://livre.fnac.com/a8858435/Florence-Aubenas-En-France
- [2]: https://lemotdujour.fr/?p=1304
- [3]: https://lemotdujour.fr/?p=1306
- [4]: https://lemotdujour.fr/?p=1308
- [5]: https://lemotdujour.fr/?p=1310
- [6]: https://lemotdujour.fr/?p=1312
+ [2]: /post/1304/
+ [3]: /post/1306/
+ [4]: /post/1308/
+ [5]: /post/1310/
+ [6]: /post/1312/
