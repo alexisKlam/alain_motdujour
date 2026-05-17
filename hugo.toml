@@ -47,6 +47,10 @@ theme = 'motdujour'
   footerText = 'Propulsé par <a href="https://gohugo.io">Hugo</a>.'
   custom_css = ["custom.css"]
 
+[params.comments]
+  enabled = false
+  endpoint = "https://comments.lemotdujour.fr/index.php"
+
 # Menu
 [[menu.main]]
   name = "Liste des mots"

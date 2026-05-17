@@ -1,3 +1,11 @@
+{{ define "head" }}
+{{ $comments := .Site.Params.comments }}
+{{ if and $comments.enabled $comments.endpoint (eq .Section "post") }}
+<link rel="stylesheet" href="{{ "css/mdj-comments.css" | relURL }}">
+<script src="{{ "js/mdj-comments.js" | relURL }}" defer></script>
+{{ end }}
+{{ end }}
+
 {{ define "main" }}
 {{ $page := . }}
 <article class="post hentry">
@@ -33,6 +41,8 @@
         </div>
         {{ end }}
     </div>
+
+    {{ partial "mdj-comments.html" . }}
 
     {{ $mainSections := site.Params.mainSections | default (slice "post") }}
     {{ $allPosts := sort (where .Site.RegularPages "Section" "in" $mainSections) "Date" "desc" }}

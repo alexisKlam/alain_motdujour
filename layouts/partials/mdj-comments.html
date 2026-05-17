@@ -1,0 +1,41 @@
+{{- $comments := .Site.Params.comments -}}
+{{- if and $comments.enabled $comments.endpoint (eq .Section "post") -}}
+<section
+    id="commentaires"
+    class="mdj-comments"
+    data-mdj-comments
+    data-endpoint="{{ $comments.endpoint }}"
+    data-post-path="{{ .RelPermalink }}"
+    data-post-title="{{ .Title }}">
+    <h2 class="mdj-comments-title">Commentaires</h2>
+    <div class="mdj-comments-list" data-mdj-comments-list>
+        <p class="mdj-comments-empty">Chargement des commentaires...</p>
+    </div>
+
+    <form class="mdj-comments-form" data-mdj-comments-form>
+        <label>
+            Nom
+            <input name="author_name" autocomplete="name" maxlength="120" required>
+        </label>
+        <label>
+            E-mail
+            <input name="author_email" type="email" autocomplete="email">
+        </label>
+        <label>
+            Site web
+            <input name="author_url" type="url" autocomplete="url">
+        </label>
+        <label>
+            Commentaire
+            <textarea name="content" maxlength="4000" required></textarea>
+        </label>
+        <label class="mdj-comments-honeypot">
+            Ne pas remplir
+            <input name="website_confirm" tabindex="-1" autocomplete="off">
+        </label>
+        <input type="hidden" name="created_at" value="">
+        <button type="submit">Envoyer le commentaire</button>
+        <p class="mdj-comments-status" data-mdj-comments-status aria-live="polite"></p>
+    </form>
+</section>
+{{- end -}}

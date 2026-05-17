@@ -1,0 +1,120 @@
+.mdj-comments {
+    margin: 42px 0 0;
+    padding-top: 24px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.mdj-comments-title {
+    margin: 0 0 18px;
+    color: #444;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.35;
+}
+
+.mdj-comments-list {
+    margin-bottom: 26px;
+}
+
+.mdj-comments-empty {
+    margin: 0 0 20px;
+    color: #888;
+}
+
+.mdj-comment {
+    margin: 0 0 20px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #f4f4f4;
+}
+
+.mdj-comment-header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    margin-bottom: 8px;
+    color: #888;
+    font-size: 14px;
+}
+
+.mdj-comment-author {
+    color: #800000;
+    font-weight: 700;
+}
+
+.mdj-comment-date {
+    color: #999;
+}
+
+.mdj-comment-content {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+.mdj-comments-form {
+    display: grid;
+    gap: 12px;
+}
+
+.mdj-comments-form label {
+    display: grid;
+    gap: 5px;
+    color: #555;
+    font-size: 15px;
+}
+
+.mdj-comments-form input,
+.mdj-comments-form textarea {
+    width: 100%;
+    min-width: 0;
+    padding: 8px 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    color: #555;
+    font: inherit;
+}
+
+.mdj-comments-form textarea {
+    min-height: 140px;
+    resize: vertical;
+}
+
+.mdj-comments-form button {
+    justify-self: start;
+    min-height: 36px;
+    padding: 0 16px;
+    border: 1px solid #800000;
+    border-radius: 3px;
+    background: #800000;
+    color: #fff;
+    cursor: pointer;
+    font: inherit;
+}
+
+.mdj-comments-form button:disabled {
+    cursor: wait;
+    opacity: 0.65;
+}
+
+.mdj-comments-honeypot {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.mdj-comments-status {
+    min-height: 20px;
+    margin: 2px 0 0;
+    color: #666;
+}
+
+.mdj-comments-status-success {
+    color: #2f6f3e;
+}
+
+.mdj-comments-status-error {
+    color: #900000;
+}

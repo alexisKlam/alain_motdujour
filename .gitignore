@@ -17,6 +17,7 @@ vendor/
 # Environment files
 .env
 .env.local
+php-comments-app/config.php
 
 # OS files
 .DS_Store
