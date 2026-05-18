@@ -13,7 +13,7 @@
             {{ with .Params.categories }}
             <span class="cat-links">
                 {{ range . }}
-                <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
                 {{ end }}
             </span>
             {{ end }}

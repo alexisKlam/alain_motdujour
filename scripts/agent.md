@@ -77,6 +77,23 @@ Controle sans ecriture:
 rtk python3 scripts/relativize_internal_links.py --dry-run
 ```
 
+## `rewrite_root_urls_for_pages.py`
+
+Reecrit les URLs generees qui commencent par `/wp-content`, `/post`, `/page`, `/categories`, `/tags`, `/css` ou `/js` pour les rendre compatibles avec une GitHub Page de projet servie sous `/<repo>/`.
+Ce script s'execute apres `hugo` et modifie seulement le dossier `public/`, sans toucher au contenu Markdown.
+
+Commande utilisee par la GitHub Action:
+
+```sh
+rtk python3 scripts/rewrite_root_urls_for_pages.py public https://alexisklam.github.io/alain_motdujour/
+```
+
+Controle sans ecriture:
+
+```sh
+rtk python3 scripts/rewrite_root_urls_for_pages.py public https://alexisklam.github.io/alain_motdujour/ --dry-run
+```
+
 ## `verify_site_links.py`
 
 Verifie les liens et images dans le site Hugo genere.
@@ -101,5 +118,6 @@ rtk hugo --cleanDestinationDir --printPathWarnings --printI18nWarnings
 rtk python3 scripts/fix_missing_upload_refs.py --dry-run
 rtk python3 scripts/fix_malformed_article_links.py --dry-run
 rtk python3 scripts/relativize_internal_links.py --dry-run
+rtk python3 scripts/rewrite_root_urls_for_pages.py public https://alexisklam.github.io/alain_motdujour/ --dry-run
 rtk python3 scripts/verify_site_links.py --articles-only
 ```

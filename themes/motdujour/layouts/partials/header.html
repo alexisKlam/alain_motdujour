@@ -2,12 +2,12 @@
     <div class="top-accent"></div>
     <div id="header-text-nav-container" class="header-text-nav-container">
         <div class="inner-wrap header-inner">
-            <a class="header-logo" href="{{ "/" | relURL }}" aria-label="{{ .Site.Title }}">
-                <img src="{{ "/wp-content/uploads/2024/11/cropped-Logo-AK-MDP-Epure1.bmp" | relURL }}" alt="{{ .Site.Title }}">
+            <a class="header-logo" href="{{ site.Home.RelPermalink }}" aria-label="{{ .Site.Title }}">
+                <img src="{{ "wp-content/uploads/2024/11/cropped-Logo-AK-MDP-Epure1.bmp" | relURL }}" alt="{{ .Site.Title }}">
             </a>
             <div class="site-branding">
                 <h1 id="site-title" class="site-title">
-                    <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+                    <a href="{{ site.Home.RelPermalink }}">{{ .Site.Title }}</a>
                 </h1>
                 {{ with .Site.Params.tagline }}
                 <p id="site-description" class="site-description">{{ . }}</p>
@@ -18,7 +18,7 @@
         <nav id="site-navigation" class="main-navigation inner-wrap" aria-label="Menu principal">
             <button class="menu-toggle" type="button" aria-expanded="false">Menu</button>
             <ul class="menu">
-                <li class="menu-item {{ if .IsHome }}current-menu-item{{ end }}"><a href="{{ "/" | relURL }}">Accueil</a></li>
+                <li class="menu-item {{ if .IsHome }}current-menu-item{{ end }}"><a href="{{ site.Home.RelPermalink }}">Accueil</a></li>
                 {{ range .Site.Menus.main }}
                 {{ $menuURL := .URL | relURL }}
                 <li class="menu-item {{ if eq $.RelPermalink $menuURL }}current-menu-item{{ end }}"><a href="{{ $menuURL }}">{{ .Name }}</a></li>

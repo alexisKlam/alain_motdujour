@@ -17,7 +17,7 @@
             {{ end }}
             {{ with .Params.categories }}
             <span class="cat-links">
-                {{ range $index, $category := . }}{{ if $index }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ $category | urlize }}/">{{ $category }}</a>{{ end }}
+                {{ range $index, $category := . }}{{ if $index }}, {{ end }}<a href="{{ printf "categories/%s/" ($category | urlize) | relURL }}">{{ $category }}</a>{{ end }}
             </span>
             {{ end }}
             {{ if not .Date.IsZero }}
@@ -36,7 +36,7 @@
         {{ with .Params.tags }}
         <div class="tag-links">
             {{ range . }}
-            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+            <a href="{{ printf "tags/%s/" (. | urlize) | relURL }}">{{ . }}</a>
             {{ end }}
         </div>
         {{ end }}

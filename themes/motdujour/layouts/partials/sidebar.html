@@ -1,6 +1,6 @@
 <aside id="secondary" class="sidebar widget-area">
     <section class="widget widget-search">
-        <form class="search-form" role="search" method="get" action="{{ "/" | relURL }}">
+        <form class="search-form" role="search" method="get" action="{{ site.Home.RelPermalink }}">
             <label class="screen-reader-text" for="sidebar-search">Recherche</label>
             <input id="sidebar-search" class="search-field" type="search" name="s" placeholder="Recherche">
             <button class="search-submit" type="submit">Recherche</button>
@@ -24,7 +24,7 @@
             {{ range (where .Site.RegularPages "Type" "post").GroupByDate "January 2006" }}
             {{ $firstPage := index .Pages 0 }}
             <li>
-                <a href="{{ "/post/" | relURL }}">
+                <a href="{{ "post/" | relURL }}">
                     {{ index $.Site.Data.months (printf "%d" $firstPage.Date.Month) }} {{ $firstPage.Date.Year }}
                 </a>
             </li>

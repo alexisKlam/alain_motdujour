@@ -44,6 +44,9 @@ jobs:
       - name: Build site
         run: hugo --minify --cleanDestinationDir --printPathWarnings --printI18nWarnings --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Rewrite root URLs for GitHub Pages
+        run: python3 scripts/rewrite_root_urls_for_pages.py public "${{ steps.pages.outputs.base_url }}/"
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
