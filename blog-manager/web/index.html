@@ -29,6 +29,7 @@
             <div class="topbar-actions">
                 <button id="buildButton">Build Hugo</button>
                 <button id="gitRefreshButton">Git</button>
+                <button id="previewButton">Prévisualiser</button>
                 <button id="saveButton" class="primary">Enregistrer</button>
             </div>
         </header>
@@ -36,8 +37,17 @@
         <section class="panel metadata-panel">
             <label>Titre <input id="titleInput"></label>
             <label>Date <input id="dateInput" type="date"></label>
-            <label>Categories <input id="categoriesInput" placeholder="Mot du jour, Lecture"></label>
-            <label>Tags <input id="tagsInput" placeholder="Philosophie, Personnel"></label>
+            <label>Alias <input id="aliasesInput" placeholder="/post/123, /ancienne-url"></label>
+            <label class="autocomplete-field">
+                Categories
+                <input id="categoriesInput" placeholder="Mot du jour, Lecture" autocomplete="off">
+                <div id="categoriesSuggestions" class="suggestions" hidden></div>
+            </label>
+            <label class="autocomplete-field">
+                Tags
+                <input id="tagsInput" placeholder="Philosophie, Personnel" autocomplete="off">
+                <div id="tagsSuggestions" class="suggestions" hidden></div>
+            </label>
             <label>Auteur <input id="authorInput" value="alain"></label>
         </section>
 
@@ -60,17 +70,29 @@
 
         <section class="editor-shell">
             <nav class="toolbar" aria-label="Outils de mise en forme">
+                <button id="codeModeButton">Code</button>
+                <button id="previewModeButton">Preview</button>
                 <button data-command="bold"><strong>B</strong></button>
                 <button data-command="italic"><em>I</em></button>
                 <button data-command="formatBlock" data-value="h2">Titre</button>
                 <button data-command="insertUnorderedList">Liste</button>
                 <button data-command="formatBlock" data-value="blockquote">Citation</button>
+                <button data-snippet="quoteHeader">Entête</button>
+                <button data-snippet="grayText">Texte gris</button>
+                <button data-snippet="redQuote">Citation rouge</button>
+                <button data-snippet="imageText">Image + texte</button>
                 <button id="linkButton">Lien</button>
-                <button id="cleanButton">Nettoyer format</button>
-                <button id="toggleMarkdownButton">Markdown brut</button>
+                <button id="cleanButton">Reset sélection</button>
             </nav>
             <div id="visualEditor" class="visual-editor" contenteditable="true"></div>
             <textarea id="markdownEditor" class="markdown-editor" spellcheck="true"></textarea>
+            <div id="previewFrame" class="preview-frame" tabindex="-1">
+                <article class="preview-article">
+                    <h1 id="previewTitle"></h1>
+                    <div id="previewMeta" class="preview-meta"></div>
+                    <div id="previewBody" class="preview-body" contenteditable="true"></div>
+                </article>
+            </div>
         </section>
 
         <section class="panel git-panel" id="gitPanel" hidden>

@@ -16,6 +16,7 @@
 body {
     display: grid;
     grid-template-columns: 320px minmax(0, 1fr);
+    height: 100vh;
     min-height: 100vh;
     margin: 0;
     background: var(--bg);
@@ -77,14 +78,49 @@ label {
     font-size: 13px;
 }
 
+.autocomplete-field {
+    position: relative;
+}
+
+.suggestions {
+    position: absolute;
+    z-index: 30;
+    top: calc(100% + 3px);
+    left: 0;
+    right: 0;
+    display: grid;
+    max-height: 220px;
+    overflow: auto;
+    padding: 5px;
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0 12px 24px rgba(35, 31, 27, 0.16);
+}
+
+.suggestions button {
+    justify-content: flex-start;
+    min-height: 30px;
+    border: 0;
+    background: transparent;
+    text-align: left;
+}
+
+.suggestions button:hover,
+.suggestions button:focus {
+    background: #f3f2ef;
+}
+
 .sidebar {
     display: flex;
     flex-direction: column;
     gap: 16px;
-    min-height: 100vh;
+    height: 100vh;
+    min-height: 0;
     padding: 18px;
     border-right: 1px solid var(--line);
     background: #fbfaf8;
+    overflow: hidden;
 }
 
 .brand {
@@ -109,9 +145,12 @@ label {
 
 .article-list {
     display: grid;
+    flex: 1;
     gap: 8px;
+    min-height: 0;
     overflow: auto;
     padding-right: 4px;
+    scrollbar-gutter: stable;
 }
 
 .article-item {
@@ -139,11 +178,23 @@ label {
     font-size: 12px;
 }
 
+.article-item.compact {
+    min-height: 36px;
+    align-content: center;
+    padding: 8px 10px;
+}
+
+.article-item.compact strong {
+    font-size: 14px;
+}
+
 .workspace {
     display: grid;
     grid-template-rows: auto auto auto minmax(360px, 1fr) auto auto;
     gap: 14px;
     min-width: 0;
+    height: 100vh;
+    overflow: auto;
     padding: 18px 24px 28px;
 }
 
@@ -230,6 +281,9 @@ label {
 }
 
 .toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
@@ -243,8 +297,15 @@ label {
     padding: 0 10px;
 }
 
+.toolbar button.active {
+    border-color: var(--accent);
+    background: #f8eeee;
+    color: var(--accent);
+}
+
 .visual-editor,
-.markdown-editor {
+.markdown-editor,
+#previewFrame {
     min-height: 500px;
     padding: 28px 34px;
     overflow: auto;
@@ -254,6 +315,7 @@ label {
 }
 
 .visual-editor {
+    display: none;
     color: #333;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 18px;
@@ -287,11 +349,119 @@ label {
     line-height: 1.5;
 }
 
+#previewFrame {
+    display: none;
+    width: 100%;
+}
+
+.preview-frame {
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.65;
+}
+
+.preview-article {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.preview-article h1 {
+    color: #222;
+    font-size: 30px;
+    line-height: 1.2;
+    margin: 0 0 10px;
+}
+
+.preview-meta {
+    color: #777;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.preview-body {
+    min-height: 380px;
+    outline: 0;
+}
+
+.preview-body a {
+    color: #0645ad;
+}
+
+.preview-body img {
+    height: auto;
+    max-width: 100%;
+}
+
+.preview-body .alignleft {
+    float: left;
+    margin: 6px 20px 12px 0;
+}
+
+.preview-body .alignright {
+    float: right;
+    margin: 6px 0 12px 20px;
+}
+
+.preview-body .mdjTexte {
+    color: #c00000;
+    font-size: 20px;
+    margin: 0 0 8px;
+}
+
+.preview-body .mdjAuteur {
+    color: #777;
+    font-style: italic;
+    margin: 0 0 28px;
+}
+
+.preview-body blockquote {
+    border-left: 4px solid #c9d3df;
+    color: #444;
+    margin-left: 0;
+    padding-left: 18px;
+}
+
+.preview-body figure {
+    margin: 18px 0;
+}
+
+.preview-body .blog-media-block {
+    clear: both;
+    cursor: move;
+    padding: 8px;
+    border: 1px dashed transparent;
+}
+
+.preview-body .blog-media-block:hover,
+.preview-body .blog-media-block:focus {
+    border-color: #c9d3df;
+}
+
+.preview-body .blog-media-block.is-dragging {
+    opacity: 0.45;
+}
+
+.preview-body figcaption {
+    color: #777;
+    font-size: 14px;
+    text-align: center;
+}
+
 .editor-shell.raw .visual-editor {
     display: none;
 }
 
 .editor-shell.raw .markdown-editor {
+    display: block;
+}
+
+.editor-shell.preview .visual-editor,
+.editor-shell.preview .markdown-editor {
+    display: none;
+}
+
+.editor-shell.preview #previewFrame {
     display: block;
 }
 
@@ -343,10 +513,14 @@ label {
 
 @media (max-width: 1000px) {
     body {
+        height: auto;
         grid-template-columns: 1fr;
+        overflow: auto;
     }
 
     .sidebar {
+        height: auto;
+        max-height: 42vh;
         min-height: auto;
         border-right: 0;
         border-bottom: 1px solid var(--line);
@@ -361,5 +535,10 @@ label {
     .topbar {
         display: grid;
         grid-template-columns: 1fr;
+    }
+
+    .workspace {
+        height: auto;
+        overflow: visible;
     }
 }

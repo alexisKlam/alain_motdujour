@@ -68,8 +68,13 @@ class BlogManagerHandler(BaseHTTPRequestHandler):
         try:
             if path == "/":
                 self.serve_static(WEB_DIR / "index.html")
+            elif path == "/favicon.ico":
+                self.send_response(HTTPStatus.NO_CONTENT)
+                self.end_headers()
             elif path.startswith("/web/"):
                 self.serve_static(WEB_DIR / path.removeprefix("/web/"))
+            elif self.serve_blog_static(path):
+                return
             elif path == "/api/articles":
                 self.json_response({"articles": list_articles(), "frontpage": load_frontpage()})
             elif path == "/api/article":
@@ -120,6 +125,23 @@ class BlogManagerHandler(BaseHTTPRequestHandler):
         self.send_header("Content-Length", str(len(body)))
         self.end_headers()
         self.wfile.write(body)
+
+    def serve_blog_static(self, path: str) -> bool:
+        relative = urllib.parse.unquote(path.lstrip("/"))
+        if not relative:
+            return False
+        static_path = (REPO_ROOT / "static" / relative).resolve()
+        static_root = (REPO_ROOT / "static").resolve()
+        if static_path == static_root or static_root not in static_path.parents or not static_path.is_file():
+            return False
+        content_type = mimetypes.guess_type(str(static_path))[0] or "application/octet-stream"
+        body = static_path.read_bytes()
+        self.send_response(HTTPStatus.OK)
+        self.send_header("Content-Type", content_type)
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        self.wfile.write(body)
+        return True
 
     def read_json(self) -> dict[str, Any]:
         length = int(self.headers.get("Content-Length", "0"))
@@ -237,17 +259,20 @@ def get_article(path_value: str) -> dict[str, Any]:
 
 def save_article(payload: dict[str, Any]) -> dict[str, Any]:
     path_value = str(payload.get("path") or "")
-    meta = payload.get("meta") or {}
+    incoming_meta = payload.get("meta") or {}
     content = str(payload.get("content") or "")
     create_new = not path_value
 
     if create_new:
+        meta = incoming_meta
         title = str(meta.get("title") or "Nouvel article")
         date_value = str(meta.get("date") or date.today().isoformat())
         path = CONTENT_DIR / f"{date_value[:10]}-{slugify(title)[:60]}.md"
         path = unique_path(path)
     else:
         path = safe_repo_path(path_value)
+        existing_meta, _existing_body, _delimiter = read_markdown_file(path)
+        meta = {**existing_meta, **incoming_meta}
         backup_file(path)
 
     normalized_meta = normalize_meta(meta, path)

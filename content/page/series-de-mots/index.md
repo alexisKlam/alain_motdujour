@@ -50,7 +50,7 @@ Sur cet onglet, vous trouverez des liens vers des pages qui regroupent les séri
 
 [<span style="color: #0000ff;">01 &#8211; La violence faite aux femmes dans l&rsquo;espace public (5 mots)</span>][7]
 
-<span style="color: #0000ff;"><a style="color: #0000ff;" href="/page/florence-aubenas-en-france-chroniques-dans-les-villes-et-villages-de-france/"><span style="color: #0000ff;">2 &#8211; Florence Aubenas : </span></a><a style="color: #0000ff;" href="/page/sapiens-de-yuval-noah-harari/">«</a><a style="color: #0000ff;" href="/page/florence-aubenas-en-france-chroniques-dans-les-villes-et-villages-de-france/"> En France </a><strong><a style="color: #0000ff;" href="/page/homo-deus-de-yuval-noah-harari/">»</a></strong><a style="color: #0000ff;" href="_wp_link_placeholder" data-wplink-edit="true"> &#8211; Chroniques dans les villes et villages de France (5 mots)</a></span>
+<span style="color: #0000ff;"><a style="color: #0000ff;" href="/page/florence-aubenas-en-france-chroniques-dans-les-villes-et-villages-de-france/">02 &#8211; Florence Aubenas : « En France » &#8211; Chroniques dans les villes et villages de France (5 mots)</a></span>
 
 <p style="padding-left: 40px;">
   <span style="color: #800000; font-family: Arial;">E &#8211; POLITIQUE</span>
@@ -78,13 +78,13 @@ Sur cet onglet, vous trouverez des liens vers des pages qui regroupent les séri
 
 [<span style="color: #0000ff;">01 &#8211; « Sapiens » de Yuval Noah Harari (13 mots +1)</span>][10]
 
-**[<span style="color: #0000ff;">02 &#8211; </span>][11]****[<span style="color: #0000ff;">« Homo deus » de Yuval Noah Harari (9 mots)</span>][11]**
+**[<span style="color: #0000ff;">02 &#8211; « Homo deus » de Yuval Noah Harari (9 mots)</span>][11]**
 
 [<span style="color: #0000ff;">03 &#8211; Comprendre le monde : les entretiens de la revue XXI (12 mots)</span>][12]
 
  
 
- [1]: /page/6872
+ [1]: /page/la-grande-guerre-sest-terminee-il-y-a-cent-ans/
  [2]: /page/martin-luther-le-debut-de-la-reforme/
  [3]: /page/le-football-par-lhistoire-leconomie-et-la-morale/
  [4]: /page/la-commune-de-paris/
